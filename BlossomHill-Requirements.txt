@@ -6,4 +6,21 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
+REQ-ID: #001
+Description: The product shall book an appointment in an available time slot.
+Type: Functional
+Rationale: In order to avoid double bookings and to handle holiday availability of a time slot must be verified.
+Originator: jmendez, requirements engineer.
+Comments: A very basic requirement considering its a a system patient for appointments.
+
+
+REQ-ID: #002
+Description: The product shall notify the user of all appointments at the start of a session
+Type: Functional
+Rationale: In order for the user to see the appointments that will follow in the session so he can plan breaks and notify of any cancelled appointments.
+Originator: jmendez, requirements engineer.
+Comments: A very basic requirement considering its a a system for patient appointments.
+
+
+
 
