@@ -21,6 +21,18 @@ Rationale: In order for the user to see the appointments that will follow in the
 Originator: jmendez, requirements engineer.
 Comments: A very basic requirement considering its a a system for patient appointments.
 
+REQ-ID:		#003
+Description:	The product shall issue an invoice to the health insurance company if the patient wishes to claim on their health insurance policy.
+Type:		Functional.
+Rationale:	Some patients will have insurance and will wish the clinic to claim directly from the health insurer.  
+		This will be an alternative for immediate payment to the clinic. 
+Originator:	M Drennan (Source: Carol, Office Manager)
+Comments:	Captured during interview 12/12/14
 
-
+REQ-ID:		#004
+Description:	The product shall calculate the payment due to the clinic from a patient’s treatment record.
+Type:		Functional.
+Rationale:	The payment information will be required by the invoicing services.
+Originator:	M Drennan (Source: Carol, Office Manager)
+Comments:	Captured during interview 12/12/14
 
