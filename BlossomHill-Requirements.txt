@@ -62,5 +62,14 @@ Rationale: 	All patients who donít turn up for appointments will have a letter s
 Originator: 	P Cooney (Source: Carol, Office Manager)
 Comments: 		Interview with office manager
 
+REQ-ID:		#009
+Description: 	The system will identify whether patients have provided insurance company information and prompt for payment if required.
+Type:		Functional.
+Rationale: 	Patients present insurance information upon initial registration, therefore the system should arrange for insurance company billing if this information is present, otherwise prompt for payment by the patient.
+Originator: 	J Wyatt (Source: David, Practice Owner)
 
-
+REQ-ID:		#010
+Description: 	The system will identify whether patients have any previous unpaid ’no-shows’ that should be charged for.
+Type:		Functional.
+Rationale: 	After the first ‘no-show’ instance, the business will charge patients for missed sessions. As they cannot claim this from their health insurance, the patient must pay directly and therefore the system should identify whether patients have any outstanding payments which should be charged for.
+Originator: 	J Wyatt (Source: Carol, Office Manager)
