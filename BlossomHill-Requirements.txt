@@ -48,3 +48,19 @@ Type:		Functional.
 Rationale: 	In case a treatment is after 2 working days the clinic¿s personnel must send a notification letter to remind the patient for the next treatment.
 Originator: 	Receptionists
 
+REQ-ID:		#007
+Description: 	The system shall book a patient in.
+Type:			Functional.
+Rationale: 	The receptionist books a patient in when they arrive at the clinic.
+Originator: 	P Cooney (Source: Carol, Office Manager)
+Comments: 		Interview with office manager
+
+REQ-ID:		#008	
+Description: 	The system shall identify patients who don't turn up for appointments.
+Type:		Functional.
+Rationale: 	All patients who don’t turn up for appointments will have a letter sent to them.
+Originator: 	P Cooney (Source: Carol, Office Manager)
+Comments: 		Interview with office manager
+
+
+
