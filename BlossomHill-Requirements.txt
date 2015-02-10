@@ -88,3 +88,17 @@ Rationale:	The patient presents the completed treatment form to the receptionist
 Originator:	T McMahon (Source: Carol, Office Manager)
 Comments: 	This requirement is derived from the interview with the office manager, the specific technical details of invoice generation will need discussed with the client but must include merge of insurance provider details and treatment into invoice
 
+REQ-ID: 013
+Type: Functional
+Description: The product shall display the availablity and absence of therapists
+Rationale: To propose followup appointments the availability of therapists needs to be known.
+Originator: The office manager (Carol)
+Comments: Derived from Carols comment about the rota. It's very likely going to create further requirements for entering and maintaining the availability of therapists.  
+
+REQ-ID: 014
+Type: Functional
+Description: The product shall allow to filter the available slots based on therapists, time range and patient
+Rationale: The treatment form indicates how long it should be before the next appointment (next week, one month, three months). Therapist and patient further reduce the possible options when finding available slots and simplify booking of appointments. 
+Originator: The office manager (Carol)
+Comments: Related to general usability requirements (productivity, efficiency) 
+
