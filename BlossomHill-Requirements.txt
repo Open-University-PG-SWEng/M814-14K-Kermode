@@ -102,3 +102,21 @@ Rationale: The treatment form indicates how long it should be before the next ap
 Originator: The office manager (Carol)
 Comments: Related to general usability requirements (productivity, efficiency) 
 
+
+REQ-ID:		#15
+Description:	The system shall identify therapist empty appointment slots.
+Type:		Functional
+Rationale:	The receptionist is able to schedule a patient appointment with his/her therapist. 
+Originator:	A Lebby (Source: Carol, Office Manager)
+Comments: 	Requirement elicited from office manager.
+
+
+REQ-ID:		#16
+Description:	The system shall identify treatment types provided by a therapist.
+Type:		Functional
+Rationale:      The receptionist is able to identify a therapist offering the treatment type required by the patient. 
+Originator:	A Lebby (Source: Carol, Office Manager)
+Comments: 	Requirement elicited from office manager.
+
+
+
