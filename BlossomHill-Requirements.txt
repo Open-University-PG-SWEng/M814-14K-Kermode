@@ -134,5 +134,16 @@ Originator:	F Mavarani
 Comments: 	Requirement given from the discussion with Duncan.
 
 
+REQ-ID:		#19
+Description:	The system will allow the user to note which method was used to reduce no-shows.
+Type:		Functional
+Rationale:	The office manager wants to try different methods for different patients at the same time.
+Originator:	W Steinert (Source: Carol, Office Manager)
+Comments: 	Requirement given from interview with office manager (Carol).
 
-
+REQ-ID:		#20
+Description:	The system will allow the user to rearrange an appointment if a therapist is not available.
+Type:		Functional
+Rationale:	Sometimes a therapist has to be away or is ill so the receptionists need to rearrange planned appointments.
+Originator:	W Steinert (Source: Carol, Office Manager)
+Comments: 	Requirement given from interview with office manager (Carol).
