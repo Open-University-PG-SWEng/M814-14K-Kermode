@@ -118,5 +118,21 @@ Rationale:      The receptionist is able to identify a therapist offering the tr
 Originator:	A Lebby (Source: Carol, Office Manager)
 Comments: 	Requirement elicited from office manager.
 
+REQ-ID:		#17
+Description:	The system will be able to inform the patients if anychanges has happened to thier apointments.
+Type:		Functional
+Rationale:	This is mainly aimed at instances where the thearopists are sick or not at the practice due to an accidents 
+Originator:	F Mavarani (Source: Carol, Office Manager)
+Comments: 	Requirement given from the discussion with Carol the office manager.
+
+
+REQ-ID:		#18
+Description:	The system will allow the user to change the time of thier apointment.
+Type:		Functional
+Rationale:      This could be an addition to the website Duncan had wanted to show patients apointment times.
+Originator:	F Mavarani 
+Comments: 	Requirement given from the discussion with Duncan.
+
+
 
 
