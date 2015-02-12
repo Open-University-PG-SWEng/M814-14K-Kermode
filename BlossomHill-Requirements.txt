@@ -27,7 +27,7 @@ Type:		Functional.
 Rationale:	Some patients will have insurance and will wish the clinic to claim directly from the health insurer.  
 		This will be an alternative for immediate payment to the clinic. 
 Originator:	M Drennan (Source: Carol, Office Manager)
-Comments:	Captured during interview 12/12/14
+Captured during interview 12/12/14
 
 REQ-ID:		#004
 Description:	The product shall calculate the payment due to the clinic from a patient’s treatment record.
@@ -90,7 +90,7 @@ Comments: 	This requirement is derived from the interview with the office manage
 
 REQ-ID: 013
 Type: Functional
-Description: The product shall display the availablity and absence of therapists
+Description: The product shall display the availability and absence of therapists
 Rationale: To propose followup appointments the availability of therapists needs to be known.
 Originator: The office manager (Carol)
 Comments: Derived from Carols comment about the rota. It's very likely going to create further requirements for entering and maintaining the availability of therapists.  
@@ -102,14 +102,12 @@ Rationale: The treatment form indicates how long it should be before the next ap
 Originator: The office manager (Carol)
 Comments: Related to general usability requirements (productivity, efficiency) 
 
-
 REQ-ID:		#15
 Description:	The system shall identify therapist empty appointment slots.
 Type:		Functional
 Rationale:	The receptionist is able to schedule a patient appointment with his/her therapist. 
 Originator:	A Lebby (Source: Carol, Office Manager)
 Comments: 	Requirement elicited from office manager.
-
 
 REQ-ID:		#16
 Description:	The system shall identify treatment types provided by a therapist.
@@ -119,20 +117,18 @@ Originator:	A Lebby (Source: Carol, Office Manager)
 Comments: 	Requirement elicited from office manager.
 
 REQ-ID:		#17
-Description:	The system will be able to inform the patients if anychanges has happened to thier apointments.
+Description:	The system will be able to inform the patients if any changes has happened to their appointments.
 Type:		Functional
-Rationale:	This is mainly aimed at instances where the thearopists are sick or not at the practice due to an accidents 
+Rationale:	This is mainly aimed at instances where the therapists are sick or not at the practice due to an accidents 
 Originator:	F Mavarani (Source: Carol, Office Manager)
 Comments: 	Requirement given from the discussion with Carol the office manager.
 
-
 REQ-ID:		#18
-Description:	The system will allow the user to change the time of thier apointment.
+Description:	The system will allow the user to change the time of their appointment.
 Type:		Functional
-Rationale:      This could be an addition to the website Duncan had wanted to show patients apointment times.
+Rationale:      This could be an addition to the website Duncan had wanted to show patients appointment times.
 Originator:	F Mavarani 
 Comments: 	Requirement given from the discussion with Duncan.
-
 
 REQ-ID:		#19
 Description:	The system will allow the user to note which method was used to reduce no-shows.
@@ -142,8 +138,22 @@ Originator:	W Steinert (Source: Carol, Office Manager)
 Comments: 	Requirement given from interview with office manager (Carol).
 
 REQ-ID:		#20
-Description:	The system will allow the user to rearrange an appointment if a therapist is not available.
+Description:The system will allow the user to rearrange an appointment if a therapist is not available.
 Type:		Functional
 Rationale:	Sometimes a therapist has to be away or is ill so the receptionists need to rearrange planned appointments.
 Originator:	W Steinert (Source: Carol, Office Manager)
 Comments: 	Requirement given from interview with office manager (Carol).
+
+REQ-ID:		#21
+Description:The system shall have a dynamic control element for filtering appointments by an arbitrary timeframe.
+Type:		Functional
+Rationale:	The team intends to gather an estimate of the number of appointments for a given timeframe. This timeframe can vary
+Originator:	P Heuschkel(Source: Carol, Office Manager)
+Comments: 	Captured during preliminary requirements interview
+
+REQ-ID:		#22
+Description:The system shall provide patient profiles which include a counter of missed appointments.
+Type:		Functional
+Rationale:	The team intends to identify "regular offenders" in correlation with their personal data and contact information
+Originator:	P Heuschkel (Source: Carol, Office Manager)
+Comments: 	Captured during preliminary requirements interview
