@@ -157,3 +157,31 @@ Type:		Functional
 Rationale:	The team intends to identify "regular offenders" in correlation with their personal data and contact information
 Originator:	P Heuschkel (Source: Carol, Office Manager)
 Comments: 	Captured during preliminary requirements interview
+
+REQ-ID:		#23
+Description:	The system should calculate the payment due to the clinic
+Type:		Functional
+Rationale:	The payment information will be required for invoicing the insurance company or billing the patient directly.
+Originator:	S Savage (Source: Carol, Office Manager)
+Comments:	Requirement elicited from Carol the Office Manager
+
+REQ-ID:		#24
+Description:	The system will record the type of "no-show" reduction method used.
+Type:		Functional
+Rationale:	The office manager would like to "try different ideas at the same time" with regards to reducing no-shows.
+Originator:	S Savage (Source: Carol - Office Manager)
+Comments:	Requirement elicited from Carol the Office Manager
+
+REQ-ID:		#25
+Description:	The product must show all available time/dates for a follow-on appointment.
+Type:		Functional
+Rationale:	In order to agree a mutually acceptable follow appointment time, a correct indication of clinic availability for all therapists is essential.
+Originator:	C Godfrey (Source: Carol - Office Manager)
+Comments:	Requirement elicited from Carol (Office Manager)
+
+REQ-ID:		#26
+Description:	The product must provide confirmation that the requested appointment time/date has been booked successfully.
+Type:		Functional
+Rationale:	For clinic/patient awareness of the details regarding a follow-on appointment, a confirmation from the system is needed.
+Originator:	C Godfrey (Source: Carol - Office Manager)
+Comments:	Requirement elicited from Carol (Office Manager)
