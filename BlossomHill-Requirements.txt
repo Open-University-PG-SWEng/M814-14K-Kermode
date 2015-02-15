@@ -12,7 +12,6 @@ Rationale: 	In order to avoid double bookings and to handle holiday availability
 Originator: J Mendez (Source: Carol, Office Manager)
 Comments: 	A very basic requirement considering its a a system patient for appointments.
 
-
 REQ-ID: 	#002
 Description: The product shall notify the user of all appointments at the start of a session
 Type: 		Functional
@@ -53,13 +52,6 @@ Type:		Functional.
 Rationale: 	The receptionist books a patient in when they arrive at the clinic.
 Originator: P Cooney (Source: Carol, Office Manager)
 Comments: 	Interview with office manager
-
-REQ-ID:		#008	
-Description:The system shall identify patients who don't turn up for appointments.
-Type:		Functional.
-Rationale:	All patients who don’t turn up for appointments will have a letter sent to them.
-Originator:	P Cooney (Source: Carol, Office Manager)
-Comments:	Interview with office manager
 
 REQ-ID:		#009
 Description:The system will identify whether patients have provided insurance company information and prompt for payment if required.
@@ -122,13 +114,6 @@ Rationale:	This could be an addition to the website Duncan had wanted to show pa
 Originator:	F Mavarani 
 Comments: 	Requirement given from the discussion with Duncan.
 
-REQ-ID:		#019
-Description:The system will allow the user to note which method was used to reduce no-shows.
-Type:		Functional
-Rationale:	The office manager wants to try different methods for different patients at the same time.
-Originator:	W Steinert (Source: Carol, Office Manager)
-Comments: 	Requirement given from interview with office manager (Carol).
-
 REQ-ID:		#020
 Description:The system will allow the user to rearrange an appointment if a therapist is not available.
 Type:		Functional
@@ -150,28 +135,21 @@ Rationale:	The team intends to identify "regular offenders" in correlation with 
 Originator:	P Heuschkel (Source: Carol, Office Manager)
 Comments: 	Captured during preliminary requirements interview
 
-REQ-ID:		#23
-Description:	The system should calculate the payment due to the clinic
-Type:		Functional
-Rationale:	The payment information will be required for invoicing the insurance company or billing the patient directly.
-Originator:	S Savage (Source: Carol, Office Manager)
-Comments:	Requirement elicited from Carol the Office Manager
-
-REQ-ID:		#24
+REQ-ID:		#024
 Description:	The system will record the type of "no-show" reduction method used.
 Type:		Functional
 Rationale:	The office manager would like to "try different ideas at the same time" with regards to reducing no-shows.
 Originator:	S Savage (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol the Office Manager
 
-REQ-ID:		#25
+REQ-ID:		#025
 Description:	The product must show all available time/dates for a follow-on appointment.
 Type:		Functional
 Rationale:	In order to agree a mutually acceptable follow appointment time, a correct indication of clinic availability for all therapists is essential.
 Originator:	C Godfrey (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol (Office Manager)
 
-REQ-ID:		#26
+REQ-ID:		#026
 Description:	The product must provide confirmation that the requested appointment time/date has been booked successfully.
 Type:		Functional
 Rationale:	For clinic/patient awareness of the details regarding a follow-on appointment, a confirmation from the system is needed.
