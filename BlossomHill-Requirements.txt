@@ -5,7 +5,6 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
-
 REQ-ID: 	#001
 Description:The product shall be capable of booking an appointment in an available time slot.
 Type: 		Functional
