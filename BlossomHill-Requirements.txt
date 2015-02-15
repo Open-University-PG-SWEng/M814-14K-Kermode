@@ -186,3 +186,16 @@ Rationale:	For clinic/patient awareness of the details regarding a follow-on app
 Originator:	C Godfrey (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol (Office Manager)
 
+REQ-ID:		#27
+Description:	The system should output a list of expected patients before a session starts
+Type:		Functional
+Rationale:	Time would be saved because the treatment history of each patient can be retrieved before the start of the session
+Originator:	Carol, David
+Comments:	Carol, the office manager, mentions that this feature would be useful for her and David and should be easy to implement since the hardware would be shared between the treatment and the booking systems
+
+REQ-ID:		#28
+Description:	The system should let patients view appointments on a website
+Type:		Functional
+Rationale:	The system would be easy to use (similar to others, e.g. local library) and could prevent patient from missing appointments
+Originator:	Carol
+Comments:	Carol, the office manager, mentions the website in the context of trying out different approaches for reducing patient no-shows.
