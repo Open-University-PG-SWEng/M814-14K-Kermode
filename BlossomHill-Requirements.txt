@@ -185,3 +185,4 @@ Type:		Functional
 Rationale:	For clinic/patient awareness of the details regarding a follow-on appointment, a confirmation from the system is needed.
 Originator:	C Godfrey (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol (Office Manager)
+
