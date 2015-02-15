@@ -27,13 +27,6 @@ Rationale:	Some patients will have insurance and will wish the clinic to claim d
 Originator:	M Drennan (Source: Carol, Office Manager)
 Captured during interview 12/12/14
 
-REQ-ID:		#004
-Description:The product shall calculate the payment due to the clinic from a patient’s treatment record.
-Type:		Functional.
-Rationale:	The payment information will be required by the invoicing services.
-Originator:	M Drennan (Source: Carol, Office Manager)
-Comments:	Captured during interview 12/12/14
-
 REQ-ID:		#005
 Description:The system shall find free timeslots for treatment and present an overview.
 Type:		Functional.
