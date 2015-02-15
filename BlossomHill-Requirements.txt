@@ -199,3 +199,17 @@ Type:		Functional
 Rationale:	The system would be easy to use (similar to others, e.g. local library) and could prevent patient from missing appointments
 Originator:	Carol
 Comments:	Carol, the office manager, mentions the website in the context of trying out different approaches for reducing patient no-shows.
+
+REQ-ID:		#29
+Description:	The system should allow the therapists to enter a note about the follow-up appointment.
+Type:		Functional
+Rationale:      This reduces the chance of human error and hand writing misinterpretation, and also releases the patients from carrying the paper form around the office.
+Originator:	O. Dovao (Office manager)
+Comments: 	The officer manager states this as a desirable feature, only if this feature makes workers' life easier (therapists and receptionists)
+
+REQ-ID:		#30
+Description:	The system shall interface with the existing accounts system
+Type:		Functional
+Rationale:      The systems should be able to manage the generation of invoices for insurance companies
+Originator:	O. Dovao (David)
+Comments: 	Direct requirement from the case study (Appointments system for Blossom Hill Clinic)
