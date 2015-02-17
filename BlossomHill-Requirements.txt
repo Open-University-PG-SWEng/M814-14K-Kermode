@@ -118,7 +118,7 @@ REQ-ID:		#021
 Description:The system shall have a dynamic control element for filtering appointments by an arbitrary timeframe.
 Type:		Functional
 Rationale:	The team intends to gather an estimate of the number of appointments for a given timeframe. This timeframe can vary
-Originator:	P Heuschkel(Source: Carol, Office Manager)
+Originator:	P Heuschkel (Source: Carol, Office Manager)
 Comments: 	Captured during preliminary requirements interview
 
 REQ-ID:		#022
@@ -142,30 +142,16 @@ Rationale:	For clinic/patient awareness of the details regarding a follow-on app
 Originator:	C Godfrey (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol (Office Manager)
 
-REQ-ID:		#27
-Description:	The system should output a list of expected patients before a session starts
-Type:		Functional
-Rationale:	Time would be saved because the treatment history of each patient can be retrieved before the start of the session
-Originator:	Carol, David
-Comments:	Carol, the office manager, mentions that this feature would be useful for her and David and should be easy to implement since the hardware would be shared between the treatment and the booking systems
-
-REQ-ID:		#28
-Description:	The system should let patients view appointments on a website
+REQ-ID:		#028
+Description:The system should let patients view appointments on a website
 Type:		Functional
 Rationale:	The system would be easy to use (similar to others, e.g. local library) and could prevent patient from missing appointments
 Originator:	Carol
 Comments:	Carol, the office manager, mentions the website in the context of trying out different approaches for reducing patient no-shows.
 
-REQ-ID:		#29
-Description:	The system should allow the therapists to enter a note about the follow-up appointment.
+REQ-ID:		#029
+Description:The system should allow the therapists to enter a note about the follow-up appointment.
 Type:		Functional
-Rationale:      This reduces the chance of human error and hand writing misinterpretation, and also releases the patients from carrying the paper form around the office.
+Rationale:	This reduces the chance of human error and hand writing misinterpretation, and also releases the patients from carrying the paper form around the office.
 Originator:	O. Dovao (Office manager)
 Comments: 	The officer manager states this as a desirable feature, only if this feature makes workers' life easier (therapists and receptionists)
-
-REQ-ID:		#30
-Description:	The system shall interface with the existing accounts system
-Type:		Functional
-Rationale:      The systems should be able to manage the generation of invoices for insurance companies
-Originator:	O. Dovao (David)
-Comments: 	Direct requirement from the case study (Appointments system for Blossom Hill Clinic)
