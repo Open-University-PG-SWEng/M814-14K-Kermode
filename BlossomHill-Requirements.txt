@@ -21,26 +21,12 @@ Rationale: 	In order for the user to see the appointments that will follow in th
 Originator: 	J Mendez (Source: Carol, Office Manager)
 Comments: 	A very basic requirement considering its a a system for patient appointments.
 
-REQ-ID:		#003
-Description:	The product shall issue an invoice to the health insurance company if the patient wishes to claim on their health insurance policy.
-Type:		Functional.
-Rationale:	Some patients will have insurance and will wish the clinic to claim directly from the health insurer.  
-		This will be an alternative for immediate payment to the clinic. 
-Originator:	M Drennan (Source: Carol, Office Manager)
-Captured during interview 12/12/14
-
 REQ-ID:		#004
 Description:	The product shall calculate the payment due to the clinic from a patient’s treatment record.
 Type:		Functional.
 Rationale:	The payment information will be required by the invoicing services.
 Originator:	M Drennan (Source: Carol, Office Manager)
 Comments:	Captured during interview 12/12/14
-
-REQ-ID:		#005
-Description: 	The system shall find free timeslots for the patient¿s next treatment.
-Tyoe:		Functional.
-Rationale: 	The therapist provides an estimate of days, weeks or months in which the patient should return for the next treatment. Beginning from a specific date, usually ¿today¿s date¿, the patient will then choose which day(s) fits the best.
-Originator: 	Therapist
 
 REQ-ID:		#006
 Description: 	The system shall notify the user in case the next treatment chosen is after 2 working days.
@@ -52,13 +38,6 @@ REQ-ID:		#007
 Description: 	The system shall book a patient in.
 Type:			Functional.
 Rationale: 	The receptionist books a patient in when they arrive at the clinic.
-Originator: 	P Cooney (Source: Carol, Office Manager)
-Comments: 		Interview with office manager
-
-REQ-ID:		#008	
-Description: 	The system shall identify patients who don't turn up for appointments.
-Type:		Functional.
-Rationale: 	All patients who don’t turn up for appointments will have a letter sent to them.
 Originator: 	P Cooney (Source: Carol, Office Manager)
 Comments: 		Interview with office manager
 
@@ -81,33 +60,12 @@ Rationale:	The patient presents the completed treatment form to the receptionist
 Originator:	T McMahon (Source: Carol, Office Manager)
 Comments: 	This requirement is derived from the interview with the office manager, it is not explicitly mentioned by the office manager but will be necessary for the system to function
 
-REQ-ID:		#012
-Description:	The system should generate an invoice for insured patients
-Type:		Functional; business requirement
-Rationale:	The patient presents the completed treatment form to the receptionist, if the patient is insured an invoice needs to be generated and sent to the insurance company
-Originator:	T McMahon (Source: Carol, Office Manager)
-Comments: 	This requirement is derived from the interview with the office manager, the specific technical details of invoice generation will need discussed with the client but must include merge of insurance provider details and treatment into invoice
-
-REQ-ID: 013
-Type: Functional
-Description: The product shall display the availability and absence of therapists
-Rationale: To propose followup appointments the availability of therapists needs to be known.
-Originator: The office manager (Carol)
-Comments: Derived from Carols comment about the rota. It's very likely going to create further requirements for entering and maintaining the availability of therapists.  
-
 REQ-ID: 014
 Type: Functional
 Description: The product shall allow to filter the available slots based on therapists, time range and patient
 Rationale: The treatment form indicates how long it should be before the next appointment (next week, one month, three months). Therapist and patient further reduce the possible options when finding available slots and simplify booking of appointments. 
 Originator: The office manager (Carol)
 Comments: Related to general usability requirements (productivity, efficiency) 
-
-REQ-ID:		#15
-Description:	The system shall identify therapist empty appointment slots.
-Type:		Functional
-Rationale:	The receptionist is able to schedule a patient appointment with his/her therapist. 
-Originator:	A Lebby (Source: Carol, Office Manager)
-Comments: 	Requirement elicited from office manager.
 
 REQ-ID:		#16
 Description:	The system shall identify treatment types provided by a therapist.
@@ -130,13 +88,6 @@ Rationale:      This could be an addition to the website Duncan had wanted to sh
 Originator:	F Mavarani 
 Comments: 	Requirement given from the discussion with Duncan.
 
-REQ-ID:		#19
-Description:	The system will allow the user to note which method was used to reduce no-shows.
-Type:		Functional
-Rationale:	The office manager wants to try different methods for different patients at the same time.
-Originator:	W Steinert (Source: Carol, Office Manager)
-Comments: 	Requirement given from interview with office manager (Carol).
-
 REQ-ID:		#20
 Description:The system will allow the user to rearrange an appointment if a therapist is not available.
 Type:		Functional
@@ -158,13 +109,6 @@ Rationale:	The team intends to identify "regular offenders" in correlation with 
 Originator:	P Heuschkel (Source: Carol, Office Manager)
 Comments: 	Captured during preliminary requirements interview
 
-REQ-ID:		#23
-Description:	The system should calculate the payment due to the clinic
-Type:		Functional
-Rationale:	The payment information will be required for invoicing the insurance company or billing the patient directly.
-Originator:	S Savage (Source: Carol, Office Manager)
-Comments:	Requirement elicited from Carol the Office Manager
-
 REQ-ID:		#24
 Description:	The system will record the type of "no-show" reduction method used.
 Type:		Functional
@@ -185,13 +129,6 @@ Type:		Functional
 Rationale:	For clinic/patient awareness of the details regarding a follow-on appointment, a confirmation from the system is needed.
 Originator:	C Godfrey (Source: Carol - Office Manager)
 Comments:	Requirement elicited from Carol (Office Manager)
-
-REQ-ID:		#27
-Description:	The system should output a list of expected patients before a session starts
-Type:		Functional
-Rationale:	Time would be saved because the treatment history of each patient can be retrieved before the start of the session
-Originator:	Carol, David
-Comments:	Carol, the office manager, mentions that this feature would be useful for her and David and should be easy to implement since the hardware would be shared between the treatment and the booking systems
 
 REQ-ID:		#28
 Description:	The system should let patients view appointments on a website
