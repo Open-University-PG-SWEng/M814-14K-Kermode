@@ -1,0 +1,9 @@
+REQ-ID: 	SS_BH03
+Description:	It should be easy for a user to record the 'no show' reduction method on their first attempt.
+Type:		Usability
+Rationale:	The office manager wishes to try different ideas to reduce no shows. Recording them enables later analysis of their efficacy. This process needs to be straightforward to encourage the timely and accurate recording of the data.
+Fit Criterion:	Users shall be able to record 90% of all attempts reduce "no shows" within 20 seconds of engaging with the system. All such recorded data shall reflect the actual reduction method used.
+Originator:	S Savage
+Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed in BlossomHill-Requirements.txt (08-Mar-2015)
+
+
