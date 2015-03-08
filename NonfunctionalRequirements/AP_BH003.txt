@@ -1,0 +1,16 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Fit Criterion:
+Originator:
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+REQ-ID:         AP_BH003
+Description:    Systems notifications must catch the user’s attention
+Type:           Usability
+Rationale:      Users must not overlook important system notifications that require further user-dependent actions. For instance, on REQ-ID: #006, failing to send the reminder letters can increase the possibility of the patients missing/forgetting their next appointments. 
+Fit Criterion:  An audible and visual notification must appear on the screen (e.g.: a pop-up screen/window) preventing the user to proceed with further system actions until a confirmation that the current “System notification” has been acknowledged by the user, e.g.: the “OK” button is pressed.
+Originator:     A Perico
+Comments:       [AP] derived from REQ-ID: #006 (BlossomHIll-Requirements.txt 8 Mar 2015).
+
