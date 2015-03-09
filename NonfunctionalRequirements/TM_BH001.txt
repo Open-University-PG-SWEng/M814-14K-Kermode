@@ -1,0 +1,16 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Fit Criterion:
+Originator:
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+REQ-ID:		TM_BH001
+Description:	The system shall allow free timeslots to be found in an efficient manner
+Type:		Usability, Performance
+Rationale:	The receptionist needs to search for free timeslots for a therapist to book an appointment for a patient, to improve the efficiency of the booking process this needs to be both straightforward and timely
+Fit Criterion:	The receptionist should be able to find free timeslots in under 10 seconds, using no more than 5 actions.
+Originator:	T McMahon
+Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
