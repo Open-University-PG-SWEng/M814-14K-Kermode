@@ -1,0 +1,10 @@
+
+
+
+REQ-ID:                    OD_BH029
+Description:               Personal details from patients must not be available to therapists   
+Type:                      Security
+Rationale:                 Patients personal details such as address, telephone number, email account, etc... are confidential and there is no business reason for therapist to know this information.
+Fit Criterion:             Therapist account must be restricted to the patients' information which is related to treatment history only 
+Originator:                O. Dovao
+Comments:                  [OD] - Derived from functional requirement REQ-ID #029
