@@ -1,0 +1,7 @@
+REQ-ID: WS_NFR001
+Description: The system shall allow to rearrange an appointment in an efficient way.
+Type: Performance
+Rationale: Rearranging appointments often is done during a phone call, hence the receptionist should be able to carry out this request fast.
+Fit Criterion: The receptionist should be able to rearrange an appointment in less than one minute.
+Originator: W Steinert
+Comments: [WS] Derived from Functional Requirement #20
