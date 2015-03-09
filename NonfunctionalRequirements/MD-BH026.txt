@@ -1,0 +1,10 @@
+REQ-ID:		MD_BH004
+Description:	The appointment booking comfirmation shall be obvious and timely.
+Type:		Usability, Performance
+Rationale:	To ensure the person creating an appointment knows their request has been excepted, an acknowledgement is required. This will help prevent multiple data entries for the same appointment and avoid unecessary waiting.
+Fit Criterion:	Within 3 seconds of completing the appointment request, an indication message should appear to the user stating the request condition.  This message should be acceptable to 80% of users taking the roll-out survey.
+Originator:	M Drennan
+Comments: 	[MD] Derived from the functional requirement #26 "The product must provide comfirmation that the requested appointment time/date has been booked successfully."
+
+
+
