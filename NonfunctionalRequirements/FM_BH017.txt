@@ -1,0 +1,16 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Fit Criterion:
+Originator:
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+REQ-ID: 	FM_BH017
+Description: 	The patient be informed of any changes in their appointment as soon as possible
+Type:  		Performance, Usability
+Rationale: 	To provide an appointment system that will lessen the chances of missed appointments or a mixed appointment times.
+Fit Criterion: 	The patient needs to be informed of the changed appointment time within an 10 minutes of it changing. 
+Originator: 	 Carol, Office Manager
+Comments: 	[FM] Requirement derived from functional requirements #017 – ‘The system will be able to inform the patients if any changes has happened to their appointments’.
