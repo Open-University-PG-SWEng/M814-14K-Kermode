@@ -1,0 +1,8 @@
+
+REQ-ID:         HB_BH005
+Description:	The product shall be easy for the receptionists to use.
+Type:		Usability
+Rationale:	The receptionists work with product on day to day basis. Many of the clerical activities are repeated over and over again. To provide ongoing efficiency the product needs to be easy to use.
+Fit Criterion:	A receptionist shall be able to propose three different possible appointment slots within 30 seconds.
+Originator:	Heiko Braun	
+Comments: 	Relates to functional requirement #014.
