@@ -7,7 +7,7 @@ Originator:
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
-REQ-ID: PC-NFR-FR013
+REQ-ID: PC-BH013
 Description: The ability to access the availability and absence of therapists should be restricted to receptionists only.
 Type: Security requirement
 Rationale: The availability and absence of therapists is considered private data and should not be made available to unauthorized users only.
