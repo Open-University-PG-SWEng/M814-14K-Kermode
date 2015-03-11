@@ -14,3 +14,4 @@ Rationale:	The receptionist needs to search for free timeslots for a therapist t
 Fit Criterion:	The receptionist should be able to find free timeslots in under 10 seconds, using no more than 5 actions.
 Originator:	T McMahon
 Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
+		[TM] Relates to functional requirement #005

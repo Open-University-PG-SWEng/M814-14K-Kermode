@@ -6,5 +6,7 @@ Fit Criterion:	Within 3 seconds of completing the appointment request, an indica
 Originator:	M Drennan
 Comments: 	[MD] Derived from the functional requirement #26 "The product must provide confirmation that the requested appointment time/date has been booked successfully."
 
+		[TM] What does completing the appointment request mean? Should not the message be agreed before roll out? 
+
 
 

@@ -10,3 +10,4 @@ Originator:                O. Dovao
 Comments:                  [OD] - Derived from functional requirement REQ-ID #029
 Comments:                  [OD] - Changing fit criterion to be more precise
 
+			[TM] The fit criterion is a repeat of the NRF, better to state what should be shown i.e. only patient name to be made available to therapists. I am not sure the NFR makes sense because if the therapists sees 2 consecutive patients with the same name there has to be a way to differentiate between them e.g. by using address.

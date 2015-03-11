@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -19,4 +19,4 @@ Comments:       [AP] derived from REQ-ID: #006 (BlossomHIll-Requirements.txt 8 M
 
 Suggestion (hbraun): In my opinion, this is a description of a functional requirement. It doesn't describe a quality of the a products function, but a function itself. I would suggest to use the given information to update the REQ-ID #006 and remove this one.  
 comments:  (odovao) - The fit criterion does not measure the effectiveness of the requirement's goal i.e. consistently sending treatment notification to patients. My suggestion is to include a sentence of the kind to the fit criterion; 95% of the receptionist send the letter notification within 2 hours following a system alert.
-
+		[TM] The fit criterion should be a way to test the requirement, it should not be a solution. You could state that the notification needs to noticed in under a set time. Preventing the user proceeding is ok. 

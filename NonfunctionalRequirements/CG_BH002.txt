@@ -18,3 +18,4 @@ Comments: 	[CG] derived from functional requirement REQ-ID: #011 in BlossomHill-
 --
 
 Suggestion (hbraun): The rational describes a function that shall be easy to use. As such the requirement type should be 'Usability' and not 'Performance'
+		[TM] The fit criterion only covers quickly how is efficiently measured? Should there be a maximum time for all searches?
