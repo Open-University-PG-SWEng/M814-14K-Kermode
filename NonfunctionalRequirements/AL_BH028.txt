@@ -15,3 +15,7 @@ Fit Criterion: 	The web page must respond with the appointment details within 8 
 Originator: 	A Lebby
 Comments: 	[AL] Requirement derived from functional requirements #028 – ‘The system should let patients view appointments on a website’.
 
+--
+
+Suggestion (hbraun): It's not clear how the response time limit is derived. Why exactly 8 seconds? I would suggest to improve the rational to explain how patients access the web site (mobile phone, dsl, etc) based on the technical constraints determine a reasonable response time limit.     
+
