@@ -18,5 +18,6 @@ Comments: 	[AL] Requirement derived from functional requirements #028 – ‘The sys
 --
 
 Suggestion (hbraun): It's not clear how the response time limit is derived. Why exactly 8 seconds? I would suggest to improve the rational to explain how patients access the web site (mobile phone, dsl, etc) based on the technical constraints determine a reasonable response time limit.     
+		
 		[TM] What is the source of the 8 seconds? Is 8 seconds a resonable time? Why dispay an error message should it not be an information message giving the patient the option to wait longer or cancel? Is the error a separate requirement?
 
