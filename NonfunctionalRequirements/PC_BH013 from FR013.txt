@@ -10,7 +10,7 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 REQ-ID: PC-BH013
 Description: The ability to access the availability and absence of therapists should be restricted to receptionists only.
 Type: Security requirement
-Rationale: The availability and absence of therapists is considered private data and should not be made available to unauthorized users only.
+Rationale: The availability and absence of therapists is considered private data and should not be made available to unauthorized users.
 Fit Criterion: Only receptionists should be able to access availability and absence of therapists.
 Originator: Paul Cooney
 Comments: [PC] Derived from functional requirement REQ-ID #013 - The product shall display the availability and absence of therapists. Assumption exists that receptionist is a clearly defined role.
@@ -20,3 +20,4 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 		[TM] The rationale is confusing "should not be made available to unauthorized users only". The fit criterion is a repeat of the NFR, it does not add anything. 
 
 [HB] Are these legal requirements, security requirements, or both?
+[PC] Updated the typo in the rationale.
