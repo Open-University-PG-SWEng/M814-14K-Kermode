@@ -14,3 +14,8 @@ Fit Criterion:  An audible and visual notification must appear on the screen (e.
 Originator:     A Perico
 Comments:       [AP] derived from REQ-ID: #006 (BlossomHIll-Requirements.txt 8 Mar 2015).
 
+
+--
+
+Suggestion (hbraun): In my opinion, this is a description of a functional requirement. It doesn't describe a quality of the a products function, but a function itself. I would suggest to use the given information to update the REQ-ID #006 and remove this one.  
+
