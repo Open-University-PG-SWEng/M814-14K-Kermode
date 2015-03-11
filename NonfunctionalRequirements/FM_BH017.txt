@@ -14,3 +14,7 @@ Rationale: 	To provide an appointment system that will lessen the chances of mis
 Fit Criterion: 	The patient needs to be informed of the changed appointment time within an 10 minutes of it changing. 
 Originator: 	 Carol, Office Manager
 Comments: 	[FM] Requirement derived from functional requirements #017 – ‘The system will be able to inform the patients if any changes has happened to their appointments’.
+
+-- 
+
+Suggestion (hbraun): The notification need to arrive before the patient leaves to the clinic. The actual fit criterion should consider the time it takes to get to clinic and the time it the notication takes to arrive (i.e. differences in email, phone, letter). I would suggest to change the rational and fit criterion to describe these constraints in a technology neutral way or impose a solution constraint (i.e. always phone) and derive the benchmark from that.
