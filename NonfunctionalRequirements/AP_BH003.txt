@@ -1,22 +1,32 @@
-﻿REQ-ID:
-Description:
-Type:
-Rationale:
-Fit Criterion:
-Originator:
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
 REQ-ID:         AP_BH003
-Description:    Systems notifications must catch the user’s attention
+Description:    System notifications must catch the user's attention on the correct moment
 Type:           Usability
-Rationale:      Users must not overlook important system notifications that require further user-dependent actions. For instance, on REQ-ID: #006, failing to send the reminder letters can increase the possibility of the patients missing/forgetting their next appointments. 
-Fit Criterion:  An audible and visual notification must appear on the screen (e.g.: a pop-up screen/window) preventing the user to proceed with further system actions until a confirmation that the current “System notification” has been acknowledged by the user, e.g.: the “OK” button is pressed.
+
+Rationale:      Users must not overlook important system notifications. When a notification does not catch user's attention, it might introduce confusion (when triggered too late) or it can simply be ignored.
+
+Fit Criterion:  
+    - It shall happen within 1 second from the moment its originator action has been triggered 
+    - It must prevent the user to execute further actions befoe the notification has been acknowledge
+
 Originator:     A Perico
+
 Comments:       [AP] derived from REQ-ID: #006 (BlossomHIll-Requirements.txt 8 Mar 2015).
 
 
---
+------
 
 Suggestion (hbraun): In my opinion, this is a description of a functional requirement. It doesn't describe a quality of the a products function, but a function itself. I would suggest to use the given information to update the REQ-ID #006 and remove this one.  
+
+Answer (aperico) -> @hbraun: Interesting point however, I think there is room for interepretation here.
+    REQ #006 says: "The system shall notify the user in case the next treatment chosen is after 2 working days".
+From what I undestood, it tells that the notification shall happen, but not when. For instance, it could be every 2 hours or 1 hour before the working day ends for the receptionist. I still think we should keep this as a NFR - I am changing it slightly to make it more generic. (If you guys still think we should move to Functional, I am also fine with that)
+
+------
+
 comments:  (odovao) - The fit criterion does not measure the effectiveness of the requirement's goal i.e. consistently sending treatment notification to patients. My suggestion is to include a sentence of the kind to the fit criterion; 95% of the receptionist send the letter notification within 2 hours following a system alert.
 		[TM] The fit criterion should be a way to test the requirement, it should not be a solution. You could state that the notification needs to noticed in under a set time. Preventing the user proceeding is ok. 
+
+Answer (aperico) -> (odovao): Thanks for the suggestion - I hope I have managed to get it now. I decided to change this requirement to simply catch
+generic cases instead of the letter notification only.
+
+------
