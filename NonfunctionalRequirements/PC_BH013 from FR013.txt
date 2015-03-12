@@ -21,3 +21,4 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 
 [HB] Are these legal requirements, security requirements, or both?
 [PC] Updated the typo in the rationale.
+[AP] Considering that this is clearly a point for discussion (Who should have access to these information), couldn't we propose something like: "Only a specific group of users can have access to this information" instead of limiting it to the receptionists only ?
