@@ -14,3 +14,5 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 [PC] The Rationale should not constrain hardware/process like "tablet or print out" as this should be part of the solution. The fit criterion should remove the reference to the mouse clicks.
 
 [AP] Agreed with [HB]. In order to remove the 2 clicks constraint, perhaps you could suggest something like: "The number of actions to access the appointment must be the same across the system"
+
+[FM]I dont know the two clicks does seem like a good Fit Criterion. and it seems like a good way to test ease of use. 
