@@ -12,3 +12,5 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
 		[TM] Only the fit criterion relates to #14. The NFR is generic, should it not specifically relate to FR #014 otherwise it could relate to multiple FRs.
 
 		[PC] The description and rationale should be updated to in line with the functional requirement #014 and the proposed fit criterion.
+
+        [AP] To avoid ambiguity, shouldn't the decription and the Reationale be more "focused" on the "Proposing different appointment slots ?". Perhaps, another requirement might similar description but focusing on another solution. e.g: "Checkout//payment handling" instead of "Proposing different appointment slots".
