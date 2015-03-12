@@ -22,3 +22,5 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
 		[TM] Is 10 minutes appropriate? How can the product notify the patient? If the receptionist notifies the patient then this part of a business use case not a product use case.
 
 		[PC] It may not be possible to always notify the client within 10 mins. It may be more appropriate that we try and contact the client within 10 mins.
+
+        [AP] I agree that 10 minutes seems not very specific, but are we suppose to use real date here? Isn't it out of scope for this TMA ?
