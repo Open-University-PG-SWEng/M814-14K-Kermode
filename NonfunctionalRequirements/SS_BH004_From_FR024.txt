@@ -1,8 +1,8 @@
 REQ-ID: 	SS_BH04
-Description:	It should be easy for a user to record the 'no show' reduction method on their first attempt.
+Description:	It should be easy for a user to record the 'no show' reduction method.
 Type:		Usability
 Rationale:	The office manager wishes to try different ideas to reduce no shows. Recording them enables later analysis of their efficacy. This process needs to be straightforward to encourage the timely and accurate recording of the data.
-Fit Criterion:	Users shall be able to record 90% of all attempts reduce "no shows" within 20 seconds of engaging with the system. All such recorded data shall reflect the actual reduction method used.
+Fit Criterion:	Authenticated users shall, on their first attempt, be able to record 90% of all attempts reduce "no shows" within 20 seconds of having access to the system functionality. 
 Originator:	S Savage
 Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed in BlossomHill-Requirements.txt (08-Mar-2015)
 		
@@ -19,3 +19,6 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 [AP] a) Perhaps the description should focus on the usability aspect of the problem. b) Move the idea of "on their first attempt" to be discussed on the Fit Critetion so it can be used as a mesurement to test the requirement.
 
 [SS] PC & AP - interesting thoughts. I agree although I'm not sure if we are outside of the scope of the TMA in that we are asked to focus on the fit criterion so am not sure if we can edit the description - will read up on this.
+
+[SS] Changed Description to remove "on their first attempt"
+[SS] Changed fit criterion to make it clearer when timing could start from; removed accuracy criterion but added on first attempt.
