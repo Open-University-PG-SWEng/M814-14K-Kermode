@@ -26,5 +26,6 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
 		[CG] agree with above regarding fit criterion: defining the system actions of a 'fail' state is a different requirement.
 		
 		[FM] Same as above comments, 8 seconds sounds too fast aswell it could take longer due to the patients connection
-
+        
+        [AP] Is there a way to link this specific requirement with AP_BH003? Tecnically they should be related somehow right ?!
 
