@@ -24,5 +24,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
 		[PC] The fit criterion does not need the "else provide an error indicating failure". This may well be a different requirement.
 		
 		[CG] agree with above regarding fit criterion: defining the system actions of a 'fail' state is a different requirement.
+		
+		[FM] Same as above comments, 8 seconds sounds too fast aswell it could take longer due to the patients connection
 
 
