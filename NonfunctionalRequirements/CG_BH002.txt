@@ -9,7 +9,7 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 REQ-ID:	 	CG_BH002
 Description: 	The system shall allow receptionists to be able to locate specific patient details efficiently and quickly.
-Type: 		NFR: Performance
+Type: 		NFR: Performance, Usability
 Rationale: 	All receptionists will need the ability to determine specific patient details for a variety of reasons e.g. previous treatments and therapists, appointments missed, appointments booked.  This system search performed by receptionists will need to take place efficiently and quickly.
 Fit Criterion: 	from system login, the receptionist shall be able to locate details of a specific patient within 15 seconds, in 95% of cases.
 Originator: 	C Godfrey
@@ -22,3 +22,7 @@ Suggestion (hbraun): The rational describes a function that shall be easy to use
 		[TM] The fit criterion only covers quickly how is efficiently measured? Should there be a maximum time for all searches?
 
 		[PC] This fit criterion looks good to me. It covers time for a search and gives 95% target. Could potentially add a number of actions taken to this.
+
+		
+[CG] Response to comments from [hbraun]: I deliberated over selecting one of these NFR types for way too long! - looking at the definitions outlined in MRP I think it could be argued either way. As such, both NFR types are now included.
+Response to comments from [TM]: again, I wasn't too sure how to handle the 5% which exceeded 15s, as the reason(s) for search fail conditions are unclear. However I agree with [PC] in that bounding 100% of search cases may be unachievable.

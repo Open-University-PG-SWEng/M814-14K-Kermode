@@ -22,5 +22,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
 		[TM] What is the source of the 8 seconds? Is 8 seconds a resonable time? Why dispay an error message should it not be an information message giving the patient the option to wait longer or cancel? Is the error a separate requirement?
 
 		[PC] The fit criterion does not need the "else provide an error indicating failure". This may well be a different requirement.
+		
+		[CG] agree with above regarding fit criterion: defining the system actions of a 'fail' state is a different requirement.
 
 

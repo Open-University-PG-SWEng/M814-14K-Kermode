@@ -30,3 +30,5 @@ Answer (aperico) -> (odovao): Thanks for the suggestion - I hope I have managed 
 generic cases instead of the letter notification only.
 
 ------
+
+[CG] for the fit criterion, I feel there may be ambiguity over the scope of 'it'. Without prescribing a solution, this element would be worth clarifying.

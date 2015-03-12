@@ -15,3 +15,5 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 [HB] I agree with the need to consider privacy, data protection and legal constraints, but I think the rational and fit criterion would be better if derived from (or refering to) a regulation or security standard.
 
 [PC] Similar to other non-functional requirements that are absolute I thing that the fit criterion looks correct but very simple. This fit criterion is testable. There are many possible solutions to distinguish between clients of the same name and still meet these security requirements.
+
+[CG] agree there is a need to clarify what type of data is or isn't allowed to be shown to therapists - the fit criterion as it stands is unrealistic.

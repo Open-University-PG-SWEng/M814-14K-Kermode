@@ -10,7 +10,9 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 
 [HB] Why three seconds? How was that number derived? Anything beyond 1 seconds will already interrupt the user flow (See Nielson, 1993)	
 
-[PC] Some of the terms used are not well defined. What is an indication message? What are the request conditions? 	
+[PC] Some of the terms used are not well defined. What is an indication message? What are the request conditions? 
+
+[CG] the rationale states that it will help prevent multiple data entries for time slots, however the fit criterion only specifies a 'request condition' - how will this de-conflict appointment requests?	
 
 
 
