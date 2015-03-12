@@ -19,3 +19,5 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 [CG] agree there is a need to clarify what type of data is or isn't allowed to be shown to therapists - the fit criterion as it stands is unrealistic.
 
 [AP] Agree with the above. Note: It is interesting to see how a NFR might simply make the system unsuable if not done carrefully (problem with restricting data leading to making it impossible distingush two patients with the same name)
+
+[AL] agree a better fit criterion would state what information can be shown to therapists to make it more specific and testable, also maybe cite the relevant security standard for reference. 
