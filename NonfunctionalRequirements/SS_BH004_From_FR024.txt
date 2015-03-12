@@ -12,3 +12,4 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 
 [PC] There is a disconnection between the description and the fit criterion/rationale. The fit criterion/rationale makes no reference to recording the reduction method on their first attempt.
 
+[AP] a) Perhaps the description should focus on the usability aspect of the problem. b) Move the idea of "on their first attempt" to be discussed on the Fit Critetion so it can be used as a mesurement to test the requirement.
