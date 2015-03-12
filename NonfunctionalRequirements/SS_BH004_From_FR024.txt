@@ -9,3 +9,6 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 		[TM] What does 20 seconds of engaging with the system mean? Is it 20 seconds from logging in or 20 seconds from first use? 20 seconds from first use seems a very short duration. Accuracy should be part of a functional requirement.
 
 [HB] I think rational of #24 shows that the requirement is incomplete ("try different ideas"). The methods to reduce no-shows are possible future enhancements. As such this requirement could be considered a maintainability requirement. 
+
+[PC] There is a disconnection between the description and the fit criterion/rationale. The fit criterion/rationale makes no reference to recording the reduction method on their first attempt.
+

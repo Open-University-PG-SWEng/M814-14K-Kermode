@@ -10,3 +10,5 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 		[TM] 2 clicks of a mouse is a solution. This will depend where you are located before you run the test, if I am booking an appointment it will take me more than 2 actions to obtain the days session of appointments.
 
 [HB] Removing the technology aspects from the fit criterion would further improve it. I.e. by stating that the session information should readily accessible from anywhere within the product.
+
+[PC] The Rationale should not constrain hardware/process like "tablet or print out" as this should be part of the solution. The fit criterion should remove the reference to the mouse clicks.

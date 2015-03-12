@@ -8,7 +8,9 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 
 		[TM] What does completing the appointment request mean? Should not the message be agreed before roll out? 
 
-[HB] Why three seconds? How was that number derived? Anything beyond 1 seconds will already interrupt the user flow (See Nielson, 1993)		
+[HB] Why three seconds? How was that number derived? Anything beyond 1 seconds will already interrupt the user flow (See Nielson, 1993)	
+
+[PC] Some of the terms used are not well defined. What is an indication message? What are the request conditions? 	
 
 
 
