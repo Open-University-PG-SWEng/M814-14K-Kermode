@@ -26,3 +26,5 @@ Suggestion (hbraun): The rational describes a function that shall be easy to use
 		
 [CG] Response to comments from [hbraun]: I deliberated over selecting one of these NFR types for way too long! - looking at the definitions outlined in MRP I think it could be argued either way. As such, both NFR types are now included.
 Response to comments from [TM]: again, I wasn't too sure how to handle the 5% which exceeded 15s, as the reason(s) for search fail conditions are unclear. However I agree with [PC] in that bounding 100% of search cases may be unachievable.
+
+    [AP] I agree with the requirements description, type and rationale. It seems a important NFR to be applied to the system and would surely be usefull on different areas where search is needed. However the Fit Criterion limits it only to the "system login", I didn't get it. Couldn't we replace ("from system login") with something like  (On places where "search for user data" is needed...)
