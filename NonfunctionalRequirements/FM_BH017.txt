@@ -23,4 +23,8 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
 
 		[PC] It may not be possible to always notify the client within 10 mins. It may be more appropriate that we try and contact the client within 10 mins.
 
+<<<<<<< HEAD
         [AP] I agree that 10 minutes seems not very specific, but are we suppose to use real date here? Isn't it out of scope for this TMA ?
+=======
+		[FM] I was thinking that the system would send a text/email in 10 mins unless the receptionist contacted them.
+>>>>>>> 0f5df012d2e16d4a0e46083e4408c00a530314c6

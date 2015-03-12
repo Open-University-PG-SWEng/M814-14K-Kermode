@@ -24,6 +24,8 @@ From what I undestood, it tells that the notification shall happen, but not when
 comments:  (odovao) - The fit criterion does not measure the effectiveness of the requirement's goal i.e. consistently sending treatment notification to patients. My suggestion is to include a sentence of the kind to the fit criterion; 95% of the receptionist send the letter notification within 2 hours following a system alert.
 		
 		[TM] The fit criterion should be a way to test the requirement, it should not be a solution. You could state that the notification needs to noticed in under a set time. Preventing the user proceeding is ok. 
+                
+		[FM]I agree yes or something along the lines of "System notifications are be acknowledged within 2 hours"
 
 Answer (aperico) -> (odovao): Thanks for the suggestion - I hope I have managed to get it now. I decided to change this requirement to simply catch
 generic cases instead of the letter notification only.
