@@ -19,3 +19,4 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 		[HB] "Finding" timeslots can describe the task of a user or a function of the system (i.e. querying data). It needs to be specified wether the system should respond within 10 seconds (i.e. provide search results) or if the user should be able to identify free slots within that time.		
 		[TM] The fit criterion states the user (i.e. receptionist), the user action encapsulates the system action. The 10 seconds is the overall time including completing the search form, running the search and returning results. I do not want to mention search forms and running searches because this would cross into solutionizing. 
 		[PC] This fit criterion looks complete and valid to me.
+        [AP] I think all has been fixed by the time I got here, looks complete to me.
