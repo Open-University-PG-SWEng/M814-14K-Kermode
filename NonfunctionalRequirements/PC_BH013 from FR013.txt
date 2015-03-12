@@ -24,3 +24,6 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [AP] Considering that this is clearly a point for discussion (Who should have access to these information), couldn't we propose something like: "Only a specific group of users can have access to this information" instead of limiting it to the receptionists only ?
 
 [SS] As it stands the fit criterion does conflict with the rationale - in that one suggests authorised users whereas the other only receptions can access the information. Removing specific roles from the fit criterion would resolve this.
+
+[PC] I agree with these comments and I will update the fit criterion to authorized users only to make this consistant and a more re-usable implementation. I will update this once all comments are submitted.
+  
