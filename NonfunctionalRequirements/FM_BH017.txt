@@ -27,3 +27,4 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
 
 		[FM] I was thinking that the system would send a text/email in 10 mins unless the receptionist contacted them.
 
+		[SS] I'm in agreemnt with PC in that the system cannot guarantee that the message will be received by the client so maybe it is better to changet the requirement to reflect that a message has been left/sent to the patient.

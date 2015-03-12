@@ -17,3 +17,5 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 [AP] I think this requiremet is a (important) specification of the requirement AP_BH003. I would suggest we try to incorporate their purposes together. For instance, "A notification message (AP_BH003) shall be triggered within X seconds after the booking proposal has been issued" .
 
 [FM] I think keeping it as "This message should be acceptable to 80% of users taking the roll-out survey." would be better
+
+[SS] Is specifying the use of a message implying a solution involving text. Would "notify the user" be more appropriate here?

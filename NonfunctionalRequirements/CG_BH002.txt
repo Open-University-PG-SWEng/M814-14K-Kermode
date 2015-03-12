@@ -30,3 +30,6 @@ Response to comments from [TM]: again, I wasn't too sure how to handle the 5% wh
     [AP] I agree with the requirements description, type and rationale. It seems a important NFR to be applied to the system and would surely be usefull on different areas where search is needed. However the Fit Criterion limits it only to the "system login", I didn't get it. Couldn't we replace ("from system login") with something like  (On places where "search for user data" is needed...)
 
 [FM]i agree it is a good requirement although as [AP] mentioned changing it from "from login" would be better 
+
+
+[SS] Another thought - is specifying "System Login" constraining us to a particular technological solution? Perhaps a phrase such as "from being able to access the system" would be less restrictive.

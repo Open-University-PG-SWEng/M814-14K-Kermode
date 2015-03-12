@@ -16,3 +16,5 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
         [AP] To avoid ambiguity, shouldn't the decription and the Reationale be more "focused" on the "Proposing different appointment slots ?". Perhaps, another requirement might similar description but focusing on another solution. e.g: "Checkout//payment handling" instead of "Proposing different appointment slots".
 
 [FM] As mentioned above you would either need to change the fit Criterion or change your NFR. Although the NFR is a good one in my opinion 
+
+[SS] When on the 30 seconds measured from? This will be needed so that the time can be measured and check against the fit-criterion.

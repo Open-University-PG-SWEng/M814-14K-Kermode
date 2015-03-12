@@ -20,3 +20,4 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 		[TM] The fit criterion states the user (i.e. receptionist), the user action encapsulates the system action. The 10 seconds is the overall time including completing the search form, running the search and returning results. I do not want to mention search forms and running searches because this would cross into solutionizing. 
 		[PC] This fit criterion looks complete and valid to me.
         [AP] I think all has been fixed by the time I got here, looks complete to me.
+	[SS] In order to test the fit criterion we need an start point for the 10 seconds - but not sure how you could express that point here withou crossing into specifying a solution for the search.

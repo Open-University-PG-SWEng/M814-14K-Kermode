@@ -8,8 +8,14 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 		
 		[TM] What does 20 seconds of engaging with the system mean? Is it 20 seconds from logging in or 20 seconds from first use? 20 seconds from first use seems a very short duration. Accuracy should be part of a functional requirement.
 
+[SS] Engaging with the system was an attempt to avoid specific solutions such as logging on although, in essence, it is from the point of having gone through user authentication and currently having access to the system. I see your point about accuracy and will remove it.
+
 [HB] I think rational of #24 shows that the requirement is incomplete ("try different ideas"). The methods to reduce no-shows are possible future enhancements. As such this requirement could be considered a maintainability requirement. 
+
+[SS] I agree to the extent that if the methods were to be implemented as part of the new system then this would indeed be maintenance. However, there are other options available - for example a quick phone call the day before - which need to be recorded.
 
 [PC] There is a disconnection between the description and the fit criterion/rationale. The fit criterion/rationale makes no reference to recording the reduction method on their first attempt.
 
 [AP] a) Perhaps the description should focus on the usability aspect of the problem. b) Move the idea of "on their first attempt" to be discussed on the Fit Critetion so it can be used as a mesurement to test the requirement.
+
+[SS] PC & AP - interesting thoughts. I agree although I'm not sure if we are outside of the scope of the TMA in that we are asked to focus on the fit criterion so am not sure if we can edit the description - will read up on this.

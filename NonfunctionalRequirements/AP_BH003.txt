@@ -34,3 +34,4 @@ generic cases instead of the letter notification only.
 
 [CG] for the fit criterion, I feel there may be ambiguity over the scope of 'it'. Without prescribing a solution, this element would be worth clarifying.
 
+[SS] The fit criterion uses the phrase "Important notifications" whereas the description uses "System notifications" - if these are synonymous then I would recommend consistency and use "system notification" throughout. If they are different then perhaps we need a better understanding of what 'important' means in this context.

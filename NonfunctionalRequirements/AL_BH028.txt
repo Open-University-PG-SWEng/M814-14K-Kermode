@@ -28,5 +28,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
 		[FM] Same as above comments, 8 seconds sounds too fast aswell it could take longer due to the patients connection
 
                 [AL] agree remove the error message and update to limit success to 95% of cases as 100% of requests would be unrealistic.
+
+		[SS] Would "indicate to the user that a problem has occurred" be better than provide an error. It gives more oportunity to the implementors to choose an appropriate way to convey the information.
         
 

@@ -22,3 +22,5 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [HB] Are these legal requirements, security requirements, or both?
 [PC] Updated the typo in the rationale.
 [AP] Considering that this is clearly a point for discussion (Who should have access to these information), couldn't we propose something like: "Only a specific group of users can have access to this information" instead of limiting it to the receptionists only ?
+
+[SS] As it stands the fit criterion does conflict with the rationale - in that one suggests authorised users whereas the other only receptions can access the information. Removing specific roles from the fit criterion would resolve this.

@@ -21,3 +21,5 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 [AP] Agree with the above. Note: It is interesting to see how a NFR might simply make the system unsuable if not done carrefully (problem with restricting data leading to making it impossible distingush two patients with the same name)
 
 [AL] agree a better fit criterion would state what information can be shown to therapists to make it more specific and testable, also maybe cite the relevant security standard for reference. 
+
+[SS] Privacy does need considering but we need to define what is considered as "personal details". Relating this back to the data protection act would also be of benefit.
