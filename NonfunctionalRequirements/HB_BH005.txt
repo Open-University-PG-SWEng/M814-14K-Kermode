@@ -18,3 +18,5 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
 [FM] As mentioned above you would either need to change the fit Criterion or change your NFR. Although the NFR is a good one in my opinion 
 
 [SS] When on the 30 seconds measured from? This will be needed so that the time can be measured and check against the fit-criterion.
+
+[MD] I think the Fit Criterion are good, although as stated above, the time constraint requires an initiator.  The Description however doesn't relate very closely to the functional requirement.
