@@ -28,3 +28,5 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 
 [OD] answer to [HB] [PC] [CG] [AL] [SS]: I agree with your point and changed the fit criterion accordingly.
 
+[MD] This NFR has now neen modified by OD so my comments may clash with above.  Rather than list the allowable data, reference to a document, listing this and other system criteria, would aid maintainability.  
+
