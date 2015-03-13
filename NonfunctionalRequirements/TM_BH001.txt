@@ -11,7 +11,7 @@ REQ-ID:		TM_BH001
 Description:	The system shall allow free timeslots to be found in an efficient manner
 Type:		Usability, Performance
 Rationale:	The receptionist needs to search for free timeslots for a therapist to book an appointment for a patient, to improve the efficiency of the booking process this needs to be both straightforward and timely
-Fit Criterion:	The receptionist should be able to find free timeslots in under 10 seconds, using no more than 5 actions.
+Fit Criterion:	From anywhere in the product the receptionist should be able to find free timeslots in under 10 seconds, using no more than 5 actions.
 Originator:	T McMahon
 Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 		[TM] Relates to functional requirement #005
@@ -22,3 +22,5 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
         [AP] I think all has been fixed by the time I got here, looks complete to me.
 	[SS] In order to test the fit criterion we need an start point for the 10 seconds - but not sure how you could express that point here withou crossing into specifying a solution for the search.
         [OD] In order to make this NFR testable, 'actions' needs to be explained as it's a very broad term in the software context and can lead to ambiguity, and also from where these actions start counting needs to be predetermined.
+	[TM} The term 'actions' would be explained in a data dictionary (MRP, p314) not in the NFR
+	[TM] I have updated the fit criterion in line with comments from [SS] and [OD] re: where does the test start from
