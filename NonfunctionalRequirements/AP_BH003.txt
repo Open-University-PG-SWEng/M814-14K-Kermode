@@ -37,3 +37,5 @@ generic cases instead of the letter notification only.
 [SS] The fit criterion uses the phrase "Important notifications" whereas the description uses "System notifications" - if these are synonymous then I would recommend consistency and use "system notification" throughout. If they are different then perhaps we need a better understanding of what 'important' means in this context.
 
 [PC] The fit criterion appears to be a solution then a test of the requirment. Could be more like the notificaion must be noticed within 3 seconds in 90% of cases.
+
+[MD] The given Fit Criterion does seem to be an additional functional requirement on the system.  This could be included as part of REQ-ID #006 and then modify this NFR to suite.
