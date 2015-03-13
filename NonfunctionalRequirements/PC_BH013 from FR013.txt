@@ -26,4 +26,6 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [SS] As it stands the fit criterion does conflict with the rationale - in that one suggests authorised users whereas the other only receptions can access the information. Removing specific roles from the fit criterion would resolve this.
 
 [PC] I agree with these comments and I will update the fit criterion to authorized users only to make this consistant and a more re-usable implementation. I will update this once all comments are submitted.
+
+[MD] I agree that more than just the Receptionists may need access to this data.  The Fit Criterion will however need specific roles, or it will be difficult to test?
   
