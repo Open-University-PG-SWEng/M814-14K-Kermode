@@ -28,5 +28,7 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 
 [OD] answer to [HB] [PC] [CG] [AL] [SS]: I agree with your point and changed the fit criterion accordingly.
 
+[FM][OD] about your comment before wouldn't being able to just see name date of birth and last session date be the only things needed to differentiate between patients? Or using patient IDs?
+
 [MD] This NFR has now neen modified by OD so my comments may clash with above.  Rather than list the allowable data, reference to a document, listing this and other system criteria, would aid maintainability.  
 
