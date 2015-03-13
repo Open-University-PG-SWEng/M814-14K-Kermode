@@ -35,3 +35,5 @@ Response to comments from [TM]: again, I wasn't too sure how to handle the 5% wh
 [SS] Another thought - is specifying "System Login" constraining us to a particular technological solution? Perhaps a phrase such as "from being able to access the system" would be less restrictive.
 
 [OD] In agreement with a few here, I think the requirement is valid and complete given that the sentence 'from system login' on the fit criterion is removed.
+
+[MD] Should the Fit Criterion indicate time from the end of the search data input, to the return of the results of the search? This would remove possible issues with slow data input.
