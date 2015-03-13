@@ -30,3 +30,5 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
 		[SS] I'm in agreemnt with PC in that the system cannot guarantee that the message will be received by the client so maybe it is better to changet the requirement to reflect that a message has been left/sent to the patient.
 
                 [OD] I agree with PC and SS here, the system can't ensure that the notification has been received, let alone that the patient has finally been notified, however a percentage can be set to measure that notifications are being sent within 10 minutes after a schedule change. 
+
+		[MD] As stated, the Fit Criterion would be difficult to pass.  A time constraint on the sending of the reminder would be more appropriate.
