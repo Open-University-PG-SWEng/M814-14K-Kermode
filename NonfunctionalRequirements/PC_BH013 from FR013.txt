@@ -11,7 +11,7 @@ REQ-ID: PC-BH013
 Description: The ability to access the availability and absence of therapists should be restricted to receptionists only.
 Type: Security requirement
 Rationale: The availability and absence of therapists is considered private data and should not be made available to unauthorized users.
-Fit Criterion: Only receptionists should be able to access availability and absence of therapists.
+Fit Criterion: Only authorized users should be able to access availability and absence of therapists.
 Originator: Paul Cooney
 Comments: [PC] Derived from functional requirement REQ-ID #013 - The product shall display the availability and absence of therapists. Assumption exists that receptionist is a clearly defined role.
 
