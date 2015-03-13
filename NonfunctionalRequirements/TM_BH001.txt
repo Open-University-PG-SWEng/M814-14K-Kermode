@@ -26,3 +26,4 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 	[TM] I have updated the fit criterion in line with comments from [SS] and [OD] re: where does the test start from
 
 	[MD] The fit criterion seems to test the requirement adequately now.
+	[FM] Yes i agree
