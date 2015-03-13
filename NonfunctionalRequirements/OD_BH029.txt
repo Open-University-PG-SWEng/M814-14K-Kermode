@@ -5,7 +5,7 @@ REQ-ID:                    OD_BH029
 Description:               Personal details from patients must not be available to therapists   
 Type:                      Security
 Rationale:                 Patients personal details such as address, telephone number, email account, etc... are confidential and there is no business reason for therapist to know this information.
-Fit Criterion:             The system must not show patients' personal details to therapist 
+Fit Criterion:             The system must not show patients' personal details to therapist following the guidelines of the data protection act. The information available to therapist must be restricted to patient's full name, id, treatment history and any relevant medical condition.
 Originator:                O. Dovao
 Comments:                  [OD] - Derived from functional requirement REQ-ID #029
 Comments:                  [OD] - Changing fit criterion to be more precise
@@ -23,3 +23,8 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 [AL] agree a better fit criterion would state what information can be shown to therapists to make it more specific and testable, also maybe cite the relevant security standard for reference. 
 
 [SS] Privacy does need considering but we need to define what is considered as "personal details". Relating this back to the data protection act would also be of benefit.
+
+[OD] answer to [TM] [AP]: I agree that for completion it would be good to specifically state the information to be shown to therapists, however to suggest that the only way to differentiate two patients with the same name is to disclose personal information to unauthorised personnel, I think is simply wrong. There are many ways of achieving this differentiation without using personal information.
+
+[OD] answer to [HB] [PC] [CG] [AL] [SS]: I agree with your point and changed the fit criterion accordingly.
+
