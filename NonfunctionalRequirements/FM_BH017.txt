@@ -11,7 +11,7 @@ REQ-ID: 	FM_BH017
 Description: 	The patient be informed of any changes in their appointment as soon as possible
 Type:  		Performance, Usability
 Rationale: 	To provide an appointment system that will lessen the chances of missed appointments or a mixed appointment times.
-Fit Criterion: 	The patient needs to be informed of the changed appointment time within an 10 minutes of it changing. 
+Fit Criterion: 	90% changes to apointments would result in the patient having been sent a confirmation of the change before the apointment.    
 Originator: 	 Carol, Office Manager
 Comments: 	[FM] Requirement derived from functional requirements #017 – ‘The system will be able to inform the patients if any changes has happened to their appointments’.
 
@@ -32,3 +32,6 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
                 [OD] I agree with PC and SS here, the system can't ensure that the notification has been received, let alone that the patient has finally been notified, however a percentage can be set to measure that notifications are being sent within 10 minutes after a schedule change. 
 
 		[MD] As stated, the Fit Criterion would be difficult to pass.  A time constraint on the sending of the reminder would be more appropriate.
+
+
+		[FM] Made a change to Fit Criterion  .
