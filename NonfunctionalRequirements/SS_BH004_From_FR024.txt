@@ -22,3 +22,5 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 
 [SS] Changed Description to remove "on their first attempt"
 [SS] Changed fit criterion to make it clearer when timing could start from; removed accuracy criterion but added on first attempt.
+
+[MD] Now modified so comments may differ from previous.  Rather than "system functionality" as a fit criteria time start point, could we use the moment we start data input for this functionality? 
