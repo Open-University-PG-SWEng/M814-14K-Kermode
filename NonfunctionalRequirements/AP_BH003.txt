@@ -4,7 +4,7 @@ Type:           Usability
 
 Rationale:      Users must not overlook important system notifications. When a notification does not catch user's attention, it might introduce confusion (when triggered too late) or it can simply be ignored.
 
-Fit Criterion:  Important notifications must prevent the user to execute any further actions before acknowledgedment
+Fit Criterion:  The notificaion must be noticed within 3 seconds in 90% of cases.
 
 Originator:     A Perico
 
@@ -39,3 +39,5 @@ generic cases instead of the letter notification only.
 [PC] The fit criterion appears to be a solution then a test of the requirment. Could be more like the notificaion must be noticed within 3 seconds in 90% of cases.
 
 [MD] The given Fit Criterion does seem to be an additional functional requirement on the system.  This could be included as part of REQ-ID #006 and then modify this NFR to suite.
+
+[AP] Agreed with [PC] and [MD]. [PC] I am using your suggestion for the fit criterion. I think it must be up to the solution (or another NRF) to decide whether is necessary to block the system for further usage or not.
