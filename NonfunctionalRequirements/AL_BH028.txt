@@ -32,5 +32,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
 		[SS] Would "indicate to the user that a problem has occurred" be better than provide an error. It gives more oportunity to the implementors to choose an appropriate way to convey the information.
 
                 [OD] In my view this requirement is valid and its fit criterion testable as it stands.
+		
+		[MD] 8s would seem to be quite a slow response time.  The error message does not seem to fit the description of the NFR. 
         
 
