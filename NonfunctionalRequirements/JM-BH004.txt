@@ -20,3 +20,5 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 [SS] Use of the phrase 'logged in' suggests a solution requiring logging in is implemented. Perhaps avoiding this by something along the lines of "a valid user who is currently using the system" would be better.
 
 [SS] Punctuation could be important here 'days session of appointments' needs an apostrophe in "days" - the problem is that the location of it changes the meaning of the phrase.
+
+[OD] I think this is a valid and testable NFR

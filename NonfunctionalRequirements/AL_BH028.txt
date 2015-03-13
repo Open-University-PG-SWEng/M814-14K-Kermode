@@ -30,5 +30,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
                 [AL] agree remove the error message and update to limit success to 95% of cases as 100% of requests would be unrealistic.
 
 		[SS] Would "indicate to the user that a problem has occurred" be better than provide an error. It gives more oportunity to the implementors to choose an appropriate way to convey the information.
+
+                [OD] In my view this requirement is valid and its fit criterion testable as it stands.
         
 

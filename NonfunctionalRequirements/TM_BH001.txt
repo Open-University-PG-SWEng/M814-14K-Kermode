@@ -21,3 +21,4 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 		[PC] This fit criterion looks complete and valid to me.
         [AP] I think all has been fixed by the time I got here, looks complete to me.
 	[SS] In order to test the fit criterion we need an start point for the 10 seconds - but not sure how you could express that point here withou crossing into specifying a solution for the search.
+        [OD] In order to make this NFR testable, 'actions' needs to be explained as it's a very broad term in the software context and can lead to ambiguity, and also from where these actions start counting needs to be predetermined.
