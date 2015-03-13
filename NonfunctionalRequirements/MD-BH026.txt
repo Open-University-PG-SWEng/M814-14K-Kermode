@@ -2,7 +2,7 @@ REQ-ID:		MD_BH004
 Description:	The appointment booking confirmation shall be obvious and timely.
 Type:		Usability, Performance
 Rationale:	To ensure the person creating an appointment knows their request has been excepted, an acknowledgement is required. This will help prevent multiple data entries for the same appointment and avoid unecessary waiting.
-Fit Criterion:	Within 3 seconds of completing the appointment request, an indication message should appear to the user stating the request condition.  This message should be acceptable to 80% of users taking the roll-out survey.
+Fit Criterion:	Within a second of the user entering the mandatory data for requesting an appointment, the user will be notified of the request condition.  This message should be acceptable to 80% of users taking the roll-out survey.
 Originator:	M Drennan
 Comments: 	[MD] Derived from the functional requirement #26 "The product must provide confirmation that the requested appointment time/date has been booked successfully."
 
@@ -19,3 +19,10 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 [FM] I think keeping it as "This message should be acceptable to 80% of users taking the roll-out survey." would be better
 
 [SS] Is specifying the use of a message implying a solution involving text. Would "notify the user" be more appropriate here?
+
+[MD] Comments on comments: 	TM - "Completing the appointment request" means the user has entered the mandatory data for requesting an appointment.  I have updated the criteria
+				HB - I've modified it to 1. 
+				PC - Warning and information messages would normally be defined in a separate document.
+				CG - I'm refering to users trying to re-enter requests due to a lack of an information messages.
+				AP - I agree with FM, trying to merge the requirements maybe out of scope.
+				SS - I've modified the Fit Criteria
