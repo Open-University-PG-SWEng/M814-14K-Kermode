@@ -22,3 +22,5 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 [SS] Punctuation could be important here 'days session of appointments' needs an apostrophe in "days" - the problem is that the location of it changes the meaning of the phrase.
 
 [OD] I think this is a valid and testable NFR
+
+[MD] Agree with AP that 'actions' would be a better test criteria.  2 actions would however be difficult to achieve if the user was alreadly entering data for another function.
