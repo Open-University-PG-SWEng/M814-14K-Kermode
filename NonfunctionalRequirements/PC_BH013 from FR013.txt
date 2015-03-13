@@ -28,4 +28,6 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [PC] I agree with these comments and I will update the fit criterion to authorized users only to make this consistant and a more re-usable implementation. I will update this once all comments are submitted.
 
 [MD] I agree that more than just the Receptionists may need access to this data.  The Fit Criterion will however need specific roles, or it will be difficult to test?
+
+[FM]Yes updating to authorized users would be better
   
