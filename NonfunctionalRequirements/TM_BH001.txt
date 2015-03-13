@@ -24,3 +24,5 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
         [OD] In order to make this NFR testable, 'actions' needs to be explained as it's a very broad term in the software context and can lead to ambiguity, and also from where these actions start counting needs to be predetermined.
 	[TM} The term 'actions' would be explained in a data dictionary (MRP, p314) not in the NFR
 	[TM] I have updated the fit criterion in line with comments from [SS] and [OD] re: where does the test start from
+
+	[MD] The fit criterion seems to test the requirement adequately now.
