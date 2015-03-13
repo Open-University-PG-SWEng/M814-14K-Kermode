@@ -11,7 +11,7 @@ REQ-ID: 	FM_BH017
 Description: 	The patient be informed of any changes in their appointment as soon as possible
 Type:  		Performance, Usability
 Rationale: 	To provide an appointment system that will lessen the chances of missed appointments or a mixed appointment times.
-Fit Criterion: 	90% changes to apointments would result in the patient having been sent a confirmation of the change before the apointment.    
+Fit Criterion: 	90% changes to apointments would result in the patient having been sent a confirmation of the change atleast an hour before the apointment.    
 Originator: 	 Carol, Office Manager
 Comments: 	[FM] Requirement derived from functional requirements #017 – ‘The system will be able to inform the patients if any changes has happened to their appointments’.
 
