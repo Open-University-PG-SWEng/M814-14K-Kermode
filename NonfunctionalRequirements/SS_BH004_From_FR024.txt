@@ -4,6 +4,7 @@ Type:		Usability
 Rationale:	The office manager wishes to try different ideas to reduce no shows. Recording them enables later analysis of their efficacy. This process needs to be straightforward to encourage the timely and accurate recording of the data.
 Fit Criterion:	Authenticated users shall, on their first attempt, be able to record 90% of all attempts reduce "no shows" within 20 seconds of having access to the system functionality. 
 Originator:	S Savage
+Quality Gateway:
 Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed in BlossomHill-Requirements.txt (08-Mar-2015)
 		
 		[TM] What does 20 seconds of engaging with the system mean? Is it 20 seconds from logging in or 20 seconds from first use? 20 seconds from first use seems a very short duration. Accuracy should be part of a functional requirement.
