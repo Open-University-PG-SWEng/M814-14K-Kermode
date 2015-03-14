@@ -5,7 +5,7 @@ Type:		Usability
 Rationale:	The receptionists work with product on day to day basis. Many of the clerical activities are repeated over and over again. To provide ongoing efficiency the product needs to be easy to use.
 Fit Criterion:	A receptionist shall be able to propose three different possible appointment slots within 30 seconds.
 Originator:	Heiko Braun	
-Quality Assurance:
+Quality Assurance: [PC] Pass
 Comments: 	Relates to functional requirement #014.
 
 Comments:   (odovao) The fit criterion does not measure the entire extend of the description’s scope, as finding a number booking slots rapidly is not the only aspect of the system which affects usability. In such case I would suggest to adjust the requirement's description so that is fully covered by the fit criterion. Also this requirement could be considered a duplicate of TM_BH001.
