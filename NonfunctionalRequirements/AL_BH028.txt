@@ -13,7 +13,8 @@ Type:  		Performance, Usability
 Rationale: 	To provide a responsive appointment system that is usable and meets user ex-pectation.
 Fit Criterion: 	The web page must respond with the appointment details within 15 seconds of the patients request in 95% of cases.
 Originator: 	A Lebby
-Comments: 	[AL] Requirement derived from functional requirements #028 ・禅he system should let patients view appointments on a website・
+Quality Gateway:[SS] Pass
+Comments: 	[AL] Requirement derived from functional requirements #028 ﾂ・窶狼he system should let patients view appointments on a websiteﾂ・
 
 --
 
