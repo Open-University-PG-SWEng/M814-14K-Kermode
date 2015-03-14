@@ -13,7 +13,7 @@ Type: 		NFR: Performance, Usability
 Rationale: 	All receptionists will need the ability to determine specific patient details for a variety of reasons e.g. previous treatments and therapists, appointments missed, appointments booked.  This system search performed by receptionists will need to take place efficiently and quickly.
 Fit Criterion: 	from system login, the receptionist shall be able to locate details of a specific patient within 15 seconds, in 95% of cases.
 Originator: 	C Godfrey
-Quality Gateway:[SS] Reject
+Quality Gateway:
 Comments: 	[CG] derived from functional requirement REQ-ID: #011 in BlossomHill-Requirements.txt on 8 Mar 2015.
 
 --
