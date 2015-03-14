@@ -32,3 +32,5 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 
 [MD] This NFR has now neen modified by OD so my comments may clash with above.  Rather than list the allowable data, reference to a document, listing this and other system criteria, would aid maintainability.  
 
+[JM] How does the therapist know whats "relevant" or the system. I think name, id are good also contact ifnromation in case you need to contact the patient, beyond that I dont think any other information is relevant, but if you think that is too narrow, perhaps a miscelanous informatioon section that can be used by therapist and receptionist alike to add any information they think is relevant about the patient, but not confidential.
+

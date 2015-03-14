@@ -41,3 +41,5 @@ generic cases instead of the letter notification only.
 [MD] The given Fit Criterion does seem to be an additional functional requirement on the system.  This could be included as part of REQ-ID #006 and then modify this NFR to suite.
 
 [AP] Agreed with [PC] and [MD]. [PC] I am using your suggestion for the fit criterion. I think it must be up to the solution (or another NRF) to decide whether is necessary to block the system for further usage or not.
+
+[JM] "The notificaion must be noticed within 3 seconds" How are you going to meassure that? I think you mean to say "User's will respond to a notification within 3 seconds", which implies the user has to click to make it go away before they can continue doing any work. Also there is a typo in notification.

@@ -13,7 +13,7 @@ Type:  		Performance, Usability
 Rationale: 	To provide a responsive appointment system that is usable and meets user ex-pectation.
 Fit Criterion: 	The web page must respond with the appointment details within 15 seconds of the patients request in 95% of cases.
 Originator: 	A Lebby
-Comments: 	[AL] Requirement derived from functional requirements #028 ñ ëThe system should let patients view appointments on a websiteí.
+Comments: 	[AL] Requirement derived from functional requirements #028 ÅEëThe system should let patients view appointments on a websiteÅE
 
 --
 
@@ -39,7 +39,7 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
  
                 [AL] now updated the fit criterion based on feedback.
                 
-                   
-
-        
+		[JM] Fit criterion seems good to me.                  
+		
+        	
 

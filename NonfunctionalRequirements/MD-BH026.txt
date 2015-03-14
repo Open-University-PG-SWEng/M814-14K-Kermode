@@ -26,3 +26,5 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 				CG - I'm refering to users trying to re-enter requests due to a lack of an information messages.
 				AP - I agree with FM, trying to merge the requirements maybe out of scope.
 				SS - I've modified the Fit Criteria
+
+[JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.

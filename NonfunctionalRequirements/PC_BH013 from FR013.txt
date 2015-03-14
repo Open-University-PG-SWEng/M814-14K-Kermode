@@ -30,4 +30,6 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [MD] I agree that more than just the Receptionists may need access to this data.  The Fit Criterion will however need specific roles, or it will be difficult to test?
 
 [FM]Yes updating to authorized users would be better
+
+[JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.
   

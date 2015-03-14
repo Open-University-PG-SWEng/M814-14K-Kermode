@@ -37,3 +37,5 @@ Response to comments from [TM]: again, I wasn't too sure how to handle the 5% wh
 [OD] In agreement with a few here, I think the requirement is valid and complete given that the sentence 'from system login' on the fit criterion is removed.
 
 [MD] Should the Fit Criterion indicate time from the end of the search data input, to the return of the results of the search? This would remove possible issues with slow data input.
+
+[JM] I agree with MD that it should be made clearer that the intention is that the search of patient data shouldnt take longer than 15 seconds, how long that data takes to fill a different requirement.

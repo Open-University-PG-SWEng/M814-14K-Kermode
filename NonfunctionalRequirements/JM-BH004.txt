@@ -2,8 +2,8 @@
 REQ-ID: JM_BH004
 Description: Obtaining a session appointment data should be clear and easy.
 Type: Usability requirement
-Rationale: The sessions data will be used by the receptionist and therapist to manage the appointments and needs the patients so obtaining this information from a tablet or print out should be very easy.
-Fit Criterion: It should take no more than 2 clicks of the mouse for an already logged in and valid user to obtain the days session of appointments.
+Rationale: The session`s data will be used by the receptionist and therapist to manage the appointments and needs the patients so obtaining this information from a tablet or print out should be very easy.
+Fit Criterion: It should take no more than 2 actions for an autorized user to obtain the day's session of appointments.
 Originator: Jose Mendez
 Comments: [PC] Derived from functional requirement REQ-ID #002 
 
@@ -24,3 +24,9 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 [OD] I think this is a valid and testable NFR
 
 [MD] Agree with AP that 'actions' would be a better test criteria.  2 actions would however be difficult to achieve if the user was alreadly entering data for another function.
+
+[JM] The two clicks is an assumption, but I think a valid one and I dont think its a solution in an out of itself but I have changed the wording "actions" because that allows for more options, like shorcut keys as well as mouse clicks. 
+
+The logged in is to clearly mean that you have to be logged in because I pressumed various other functions wouldn require you to be logged into the system. But again I have changed the terminology to "authorized" which is less restrictive in terms of implementation and a lot more consize.
+
+I also added an apostrophy as suggested for clarity.

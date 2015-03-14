@@ -27,3 +27,5 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 
 	[MD] The fit criterion seems to test the requirement adequately now.
 	[FM] Yes i agree
+
+	[JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.
