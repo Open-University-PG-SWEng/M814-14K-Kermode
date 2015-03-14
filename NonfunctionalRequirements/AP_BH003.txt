@@ -4,7 +4,7 @@ Type:           Usability
 
 Rationale:      Users must not overlook important system notifications. When a notification does not catch user's attention, it might introduce confusion (when triggered too late) or it can simply be ignored.
 
-Fit Criterion:  The notificaion must be noticed within 3 seconds in 90% of cases.
+Fit Criterion:  User's will respond to a notification within 3 seconds in 90% of cases.
 
 Originator:     A Perico
 
@@ -43,3 +43,5 @@ generic cases instead of the letter notification only.
 [AP] Agreed with [PC] and [MD]. [PC] I am using your suggestion for the fit criterion. I think it must be up to the solution (or another NRF) to decide whether is necessary to block the system for further usage or not.
 
 [JM] "The notificaion must be noticed within 3 seconds" How are you going to meassure that? I think you mean to say "User's will respond to a notification within 3 seconds", which implies the user has to click to make it go away before they can continue doing any work. Also there is a typo in notification.
+
+[AP] Sounds good to me.
