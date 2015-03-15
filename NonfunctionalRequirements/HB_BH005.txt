@@ -23,3 +23,5 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
 [MD] I think the Fit Criterion are good, although as stated above, the time constraint requires an initiator.  The Description however doesn't relate very closely to the functional requirement.
 
 [JM] The description applies to the product as a whole, while the fit rationale applies to only one specific fucntion of the project. Either the description is wrong or the fit criterion is wrong... For the chosen description I would use a fit criterion related to using the whole of the system, something like "no more than 3 actions" or "no more more than 30 seconds to perform any one task". For the chosen fit criterion I think your description should related to appointments specifically.
+
+[JM] I agree with [JM], for me it seems that the Description and the Rationale used here can be used on other NFR too (perhaps introducing condusion ?!). Shouldn't the description be something like: "It shall be easy for the receptionists to propose different appointment slots ?"
