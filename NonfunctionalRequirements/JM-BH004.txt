@@ -5,7 +5,7 @@ Type: Usability requirement
 Rationale: The session`s data will be used by the receptionist and therapist to manage the appointments and needs the patients so obtaining this information from a tablet or print out should be very easy.
 Fit Criterion: It should take no more than 2 actions for an autorized user to obtain the day's session of appointments.
 Originator: Jose Mendez
-Quality Gateway: [SS] Pass [PC] Pass
+Quality Gateway: [SS] Pass [PC] Pass [AL] Pass
 Comments: [PC] Derived from functional requirement REQ-ID #002 
 
 		[TM] 2 clicks of a mouse is a solution. This will depend where you are located before you run the test, if I am booking an appointment it will take me more than 2 actions to obtain the days session of appointments.
