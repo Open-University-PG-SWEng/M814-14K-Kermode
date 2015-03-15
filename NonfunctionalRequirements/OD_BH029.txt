@@ -7,7 +7,7 @@ Type:                      Security
 Rationale:                 Patients personal details such as address, telephone number, email account, etc... are confidential and there is no business reason for therapist to know this information.
 Fit Criterion:             The system must not show patients' personal details to therapist following the guidelines of the data protection act. The information available to therapist must be restricted to patient's full name, id, treatment history and any relevant medical condition.
 Originator:                O. Dovao
-Quality Gateway:	   [SS] Reject [PC] Pass
+Quality Gateway:	   [SS] Reject [PC] Pass [AP] Pass
 Comments:                  [OD] - Derived from functional requirement REQ-ID #029
 Comments:                  [OD] - Changing fit criterion to be more precise
 

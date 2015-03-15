@@ -27,3 +27,6 @@ Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed 
 [MD] Now modified so comments may differ from previous.  Rather than "system functionality" as a fit criteria time start point, could we use the moment we start data input for this functionality? 
 
 [FM] agree would be better to start from when the attempt to input the no show 
+
+[AP] Sorry, I don't mean to be pedantic, but perhaps my english is simply not good enough. I can't understand the meaning behind the Fit Criterion yet, specifically on this sentence: "..be able to record 90% of all attempts reduce "no shows" within 20 seconds of having access to the system functionality". 
+It appears to me that it aims to extract information about the "attempts to reduce the no show" and not about "the list of patients that misses their appointments". Shouldn't it be something like: Authenticated users shall, on their first attempt, be able to acess the list of patients that missed their appointments within 20 seconds?
