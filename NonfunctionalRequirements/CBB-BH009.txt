@@ -1,0 +1,7 @@
+REQ-ID: CBB-BH09
+Description: The system shall keep a comprehensive log of all invoices to insurance companies for easy auditing.
+Type: Maintainability, Legal
+Rationale: Experience with ERP software has taught us that automatic invoicing doesn’t work perfectly in 100% of cases. As such, human intervention is sometimes needed to verify transactions. Allowing a clear tracking of invoices and treatments should enable operators to address complains from insurers as well as fix potential bugs of the system.
+Fit Criterion: A system administrator shall be able to retrieve treatment data and invoice details of any previous session in less than five minutes.
+Originator: Costin Boldisor Buta
+Comments:  
