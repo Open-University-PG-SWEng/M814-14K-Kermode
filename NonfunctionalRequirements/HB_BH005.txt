@@ -1,8 +1,8 @@
 
 REQ-ID:         HB_BH005
-Description:	The product shall be easy for the receptionists to use.
+Description:	It shall be easy for the receptionists to propose different appointment slots.
 Type:		Usability
-Rationale:	The receptionists work with product on day to day basis. Many of the clerical activities are repeated over and over again. To provide ongoing efficiency the product needs to be easy to use.
+Rationale:	Proposing appointments is an activity often executed on a short attention span, i.e. when a patient calls in to change his appoinment or while other's are waiting in line. Typically a receptionist has one to two minutes for each inquiry on the phone. Hence it should be efficient and simple to find and propose alternative appointment slots.
 Fit Criterion:	A receptionist shall be able to propose three different possible appointment slots within 30 seconds.
 Originator:	Heiko Braun	
 Quality Assurance: [PC] Pass
