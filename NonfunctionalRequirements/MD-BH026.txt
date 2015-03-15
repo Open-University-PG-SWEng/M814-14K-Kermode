@@ -4,7 +4,7 @@ Type:		Usability, Performance
 Rationale:	To ensure the person creating an appointment knows their request has been excepted, an acknowledgement is required. This will help prevent multiple data entries for the same appointment and avoid unecessary waiting.
 Fit Criterion:	Within a second of the user entering the mandatory data for requesting an appointment, the user will be notified of the request condition.  This message should be acceptable to 80% of users taking the roll-out survey.
 Originator:	M Drennan
-Quality Gateway:[SS] Pass [PC] Pass
+Quality Gateway:[SS] Pass [PC] Pass [AL] Pass
 Comments: 	[MD] Derived from the functional requirement #26 "The product must provide confirmation that the requested appointment time/date has been booked successfully."
 
 		[TM] What does completing the appointment request mean? Should not the message be agreed before roll out? 
