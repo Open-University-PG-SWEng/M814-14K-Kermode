@@ -47,3 +47,5 @@ generic cases instead of the letter notification only.
 [JM] "The notificaion must be noticed within 3 seconds" How are you going to meassure that? I think you mean to say "User's will respond to a notification within 3 seconds", which implies the user has to click to make it go away before they can continue doing any work. Also there is a typo in notification.
 
 [AP] Sounds good to me.
+
+[PH] I'm sorry to disagree with so many of you but I would reject this requirement at the gate regarding the completeness, the viability and maybe the scope criterion. I cannot find time-criticality anywhere in the case studies (scope), I miss a hint for what is an "important" notification (completeness), I don't see that a user should have to respond to *every* notification (completeness) and lastly the requirement would a ton of dispute with stakeholders (viability)

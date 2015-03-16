@@ -5,3 +5,4 @@ Rationale: Experience with ERP software has taught us that automatic invoicing d
 Fit Criterion: A system administrator shall be able to retrieve treatment data and invoice details of any previous session in less than five minutes.
 Originator: Costin Boldisor Buta
 Comments:  
+[PH] I like your requirement in general but I'm afraid that this might actually be four (!) requirements in one. It contains a functional requirement (keep a log), a  legal+usability requirement (log has to be comprehensive), another usability requirement in your fit criterion (less than five minutes to availability) and a legal requirement (must be viable for auditing). In conclusion I think this should be rewritten to be more concise on one issue or it might be rejected for completeness, ambiguitiy and viability reasons

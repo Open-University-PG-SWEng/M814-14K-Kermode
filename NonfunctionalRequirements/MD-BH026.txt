@@ -29,3 +29,5 @@ Comments: 	[MD] Derived from the functional requirement #26 "The product must pr
 				SS - I've modified the Fit Criteria
 
 [JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.
+
+[PH] A very good fit criterion. Another idea to expand on the idea of "being obvious" would be to block further bookings until the confirmation is in. 

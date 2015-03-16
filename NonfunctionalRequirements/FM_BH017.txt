@@ -36,3 +36,5 @@ Suggestion (hbraun): The notification need to arrive before the patient leaves t
 
 
 		[FM] Made a change to Fit Criterion  .
+		
+		[PH] I am unsteady on this requirement. I think it might cross the border to being out of scope or solution-bound. Wouldn't it be enough to specify the users have to be notified before the appointment - no matter how long before? Furthermore the description and the fit criterion are contradictory, the description says "as soon as possible". That is *very* different from "x minutes beforehand" and should be changed. Also I would recommend fixing the typos

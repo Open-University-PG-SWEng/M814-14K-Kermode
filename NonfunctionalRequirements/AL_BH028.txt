@@ -42,7 +42,8 @@ Suggestion (hbraun): It's not clear how the response time limit is derived. Why 
                 
 		[JM] Fit criterion seems good to me.     
 
-		[CBB] 15s is a lot by today's standards but is sounds OK for the purpose of responding in a "reasonable" time.        
+		[CBB] 15s is a lot by today's standards but is sounds OK for the purpose of responding in a "reasonable" time.
+		[PH] I agree that 15s is a lot however taking into account the possible complexity of the page and the backend it could absolutely be considered "reasonable". It is quite interesting to see this requirement "grow", the comments definitely improved it and it should pass as it stands
 		
         	
 

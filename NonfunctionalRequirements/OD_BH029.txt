@@ -35,3 +35,4 @@ Comments:                  [OD] - Changing fit criterion to be more precise
 
 [JM] How does the therapist know whats "relevant" or the system. I think name, id are good also contact ifnromation in case you need to contact the patient, beyond that I dont think any other information is relevant, but if you think that is too narrow, perhaps a miscelanous informatioon section that can be used by therapist and receptionist alike to add any information they think is relevant about the patient, but not confidential.
 
+[PH] As it currently stands this is overall a very nice requirement! It's important, easy to understand, seems clear to me etc. The only thing that worries me a bit is the viability of restricting the profile this far. This was already hinted at in the comment of [TM] but is still an issue. I personally think it should pass though

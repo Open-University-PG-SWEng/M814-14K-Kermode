@@ -40,3 +40,5 @@ Response to comments from [TM]: again, I wasn't too sure how to handle the 5% wh
 [MD] Should the Fit Criterion indicate time from the end of the search data input, to the return of the results of the search? This would remove possible issues with slow data input.
 
 [JM] I agree with MD that it should be made clearer that the intention is that the search of patient data shouldnt take longer than 15 seconds, how long that data takes to fill a different requirement.
+
+[PH] As others before me I must note that "system login" might be considered solution-bound and should be changed. Furthermore I see another problem here in that this requirement might fail the viability criterion at the gate since it is possible that other steps in the system (other screens needing to be shown etc.) prevent us from EVER achieving the 15s target. From beginning to patient details may be too long of an arc to be properly surveyed

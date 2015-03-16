@@ -25,3 +25,5 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
 [JM] The description applies to the product as a whole, while the fit rationale applies to only one specific fucntion of the project. Either the description is wrong or the fit criterion is wrong... For the chosen description I would use a fit criterion related to using the whole of the system, something like "no more than 3 actions" or "no more more than 30 seconds to perform any one task". For the chosen fit criterion I think your description should related to appointments specifically.
 
 [AP] I agree with [JM], for me it seems that the Description and the Rationale used here can be used on other NFR too (perhaps introducing condusion ?!). Shouldn't the description be something like: "It shall be easy for the receptionists to propose different appointment slots ?"
+
+[PH] I am glad the description has been addressed. I second [SS] comment above in that it should probably be something like "... within 30 seconds of starting to look for slots"

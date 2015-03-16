@@ -31,3 +31,5 @@ Comments: [PC] Derived from functional requirement REQ-ID #002
 The logged in is to clearly mean that you have to be logged in because I pressumed various other functions wouldn require you to be logged into the system. But again I have changed the terminology to "authorized" which is less restrictive in terms of implementation and a lot more consize.
 
 I also added an apostrophy as suggested for clarity.
+
+[PH] I think this requirement could run into trouble with the ambiguity or the completeness criterion at the gate since it is somewhat difficult to understand. I think the rationale should be rewritten to clarify more. Also two actions from where on?

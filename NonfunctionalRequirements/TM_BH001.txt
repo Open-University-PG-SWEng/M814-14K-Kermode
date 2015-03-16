@@ -30,3 +30,4 @@ Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 	[FM] Yes i agree
 
 	[JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.
+	[PH] As it now stands I think the requirement and the criterion are very good and it should pass. I would argue that the "performance" type can be stripped since this is really only about usability and the general "chance" to do it in 10 seconds. Reaction times of the system will probably be required elsewhere

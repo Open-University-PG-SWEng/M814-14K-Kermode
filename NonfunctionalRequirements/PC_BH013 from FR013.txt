@@ -33,4 +33,6 @@ Comments: (odovao) - Although receptionists are the regular users of therapists'
 [FM]Yes updating to authorized users would be better
 
 [JM] I like this fit criterion very clear and precise. I think this has passed the Quality Gateway.
+
+[PH] I think this requirement has some issues that need to be dealt with and would clearly be rejected as it stands. I'm surprised the comment by [AP] has not been addressed yet as it is very good. I'll also repeat that the fit criterion is only a copy of the description. How would this be *measured*? I think this would fail the traceability and completeness criterion at the gate
   
