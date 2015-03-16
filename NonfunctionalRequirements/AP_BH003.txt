@@ -8,7 +8,7 @@ Fit Criterion:  User's will respond to a notification within 3 seconds in 90% of
 
 Originator:     A Perico
 
-Quality Gateway:[SS] Pass [PC] Pass [AL] Pass
+Quality Gateway:[SS] Pass [PC] Pass [AL] Pass [OD] Pass
 
 Comments:       [AP] derived from REQ-ID: #006 (BlossomHIll-Requirements.txt 8 Mar 2015).
 

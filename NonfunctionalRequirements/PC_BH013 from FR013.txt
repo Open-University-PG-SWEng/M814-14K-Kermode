@@ -13,7 +13,7 @@ Type: Security requirement
 Rationale: The availability and absence of therapists is considered private data and should not be made available to unauthorized users.
 Fit Criterion: Only authorized users should be able to access availability and absence of therapists.
 Originator: Paul Cooney
-Quality Gateway: [SS] Pass [AL] Pass [AP] Pass
+Quality Gateway: [SS] Pass [AL] Pass [AP] Pass [OD] Pass
 Comments: [PC] Derived from functional requirement REQ-ID #013 - The product shall display the availability and absence of therapists. Assumption exists that receptionist is a clearly defined role.
 
 Comments: (odovao) - Although receptionists are the regular users of therapists' availability information, I would not strictly restrict it to receptionist as there may be cases in which other employers, such as office managers, would want to use this information for other business processes, including producing revenue predictions or growth planning.

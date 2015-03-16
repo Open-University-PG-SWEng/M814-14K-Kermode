@@ -13,7 +13,7 @@ Type:		Usability, Performance
 Rationale:	The receptionist needs to search for free timeslots for a therapist to book an appointment for a patient, to improve the efficiency of the booking process this needs to be both straightforward and timely
 Fit Criterion:	From anywhere in the product the receptionist should be able to find free timeslots in under 10 seconds, using no more than 5 actions.
 Originator:	T McMahon
-Quality Gateway:[SS] Pass [PC] Pass [AL] Pass [AP] Pass
+Quality Gateway:[SS] Pass [PC] Pass [AL] Pass [AP] Pass [OD] Pass
 Comments: 	[TM] Type from MRP p249, p250 states that multiple types can be used
 		[TM] Relates to functional requirement #005
 
