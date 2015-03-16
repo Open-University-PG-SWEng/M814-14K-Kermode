@@ -4,4 +4,5 @@ Type:			Maintainability
 Rationale:		The treatment types might change due to further training or cutbacks in workload and this should be represented in the system
 Fit Criterion:	It shall be possible to change the values of the provided treatment types in the production system without re-shipment
 Originator:		P Heuschkel
+Quality Gateway:
 Comments: 		Derived from the functional requirement #016. Might incentivise the creation of a new functional requirement for admin-access to pages and alterable data
