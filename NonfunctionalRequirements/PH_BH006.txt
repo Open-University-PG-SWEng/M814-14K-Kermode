@@ -1,11 +1,11 @@
-REQ-ID: PH_BH006
-Description:	The attribution of treatment types shall be future-proof
+REQ-ID: 		PH_BH006
+Description:	The attribution of treatment types shall be easily adaptable in light of future changes
 Type:			Maintainability 
-Rationale:		The treatment types might change due to further training or cutbacks in workload and this should be represented in the system
+Rationale:		The treatment types might change due to further training or cutbacks in workload and this will have to be represented in the system when the time comes
 Fit Criterion:	It shall be possible for a selected subset of users to change the values of the provided treatment types with at most 2 user actions and without the need for technical assistance
 Originator:		P Heuschkel
 Quality Gateway:
-Comments: 		Derived from the functional requirement #016. Might incentivise the creation of a new functional requirement for admin-access to pages and alterable data
+Comments: 		Derived from the functional requirement #016. Might incentivise the creation of new functional requirements for admin-access to pages, alterable data and form fields
 
 [HB] I would change "future-proof" to "extensible". The fit criterion can be further improved by stating who is going to extend the treatment types: Is it the receptionist? A support engineer? This makes sure an appropriate mechanism is build into the product. 
 
