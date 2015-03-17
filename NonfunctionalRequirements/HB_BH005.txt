@@ -26,4 +26,4 @@ Comments:   (odovao) The fit criterion does not measure the entire extend of the
 
 [AP] I agree with [JM], for me it seems that the Description and the Rationale used here can be used on other NFR too (perhaps introducing condusion ?!). Shouldn't the description be something like: "It shall be easy for the receptionists to propose different appointment slots ?"
 
-[PH] I am glad the description has been addressed. I second [SS] comment above in that it should probably be something like "... within 30 seconds of starting to look for slots"
+[PH] I am glad the description has been addressed. I second [SS] comment above in that it should probably be something like "... within 30 seconds of starting to look for slots". Other than that this is a clear pass to me as I don't see a criterion this would fail
