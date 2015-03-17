@@ -13,7 +13,7 @@ Type: 		NFR: Performance, Usability
 Rationale: 	All receptionists will need the ability to determine specific patient details for a variety of reasons e.g. previous treatments and therapists, appointments missed, appointments booked.  This system search performed by receptionists will need to take place efficiently and quickly.
 Fit Criterion: 	from system login, the receptionist shall be able to locate details of a specific patient within 15 seconds, in 95% of cases.
 Originator: 	C Godfrey
-Quality Gateway: [PC] Reject [AP] Reject [OD] Reject
+Quality Gateway: [PC] Reject [AP] Reject [OD] Reject [CBB] Accept
 Comments: 	[CG] derived from functional requirement REQ-ID: #011 in BlossomHill-Requirements.txt on 8 Mar 2015.
 
 --
@@ -42,3 +42,5 @@ Response to comments from [TM]: again, I wasn't too sure how to handle the 5% wh
 [JM] I agree with MD that it should be made clearer that the intention is that the search of patient data shouldnt take longer than 15 seconds, how long that data takes to fill a different requirement.
 
 [PH] As others before me I must note that "system login" might be considered solution-bound and should be changed. Furthermore I see another problem here in that this requirement might fail the viability criterion at the gate since it is possible that other steps in the system (other screens needing to be shown etc.) prevent us from EVER achieving the 15s target. From beginning to patient details may be too long of an arc to be properly surveyed
+
+[CBB] I agree that "from system login" makes some technical assumptions about the system but to me it seems a bit nitpicking to reject the NFR for that reason. What was meant by that was, I assume, from a cold start or without having the browser window open, but I can't think of a system that enables internal database search and doesn't require login.
