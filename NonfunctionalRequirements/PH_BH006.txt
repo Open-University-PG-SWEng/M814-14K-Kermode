@@ -13,3 +13,5 @@ Comments: 		Derived from the functional requirement #016. Might incentivise the 
 
 [PH] @HB Making it "extensible" and writing who will be able to do this both make this into a functional requirement in my opinion. Note that I only want to express a *quality* of the requirement (although it's a difficult one to express I admit)
 [PH] @AP thanks for the hint, I think this captures it better
+
+[TM] I would alter the fit criterion to mention administration of the treatment types by an appointed administrator because at the moment it could be read that the receptionist is changing the treatment type in normal use as opposed to through an administration interface. I would change the statement "without re-compiling the product" to "without the need for technical assistance" 
