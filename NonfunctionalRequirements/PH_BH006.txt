@@ -8,3 +8,5 @@ Quality Gateway:
 Comments: 		Derived from the functional requirement #016. Might incentivise the creation of a new functional requirement for admin-access to pages and alterable data
 
 [HB] I would change "future-proof" to "extensible". The fit criterion can be further improved by stating who is going to extend the treatment types: Is it the receptionist? A support engineer? This makes sure an appropriate mechanism is build into the product. 
+
+[AP] I understand that this is a Maintainability type requirement, but isn't the Fit Criterion describing a Functional requirement ?
