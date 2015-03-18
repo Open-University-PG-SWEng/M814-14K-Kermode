@@ -3,6 +3,10 @@ Description:	It should be easy for a user to record the 'no show' reduction meth
 Type:		Usability
 Rationale:	The office manager wishes to try different ideas to reduce no shows. Recording them enables later analysis of their efficacy. This process needs to be straightforward to encourage the timely and accurate recording of the data.
 Fit Criterion:	Authenticated users shall, on their first attempt, be able to record 90% of all attempts reduce "no shows" within 20 seconds of having access to the system functionality. 
+		The above criterion has caused confusion for [AP] below so is separated out into separate clauses here in an attempt to clarify
+		- Authenticated users shall be able to record attempts to reduce "no shows".
+		- They shall be able to do this within 20 seconds of having access to the system functionality.
+		- They shall be able to do this on their first attempt 90% of the time.
 Originator:	S Savage
 Quality Gateway: [PC] Pass
 Comments: 	[SS] Derived from functional requirement with Req ID #24 as detailed in BlossomHill-Requirements.txt (08-Mar-2015)
